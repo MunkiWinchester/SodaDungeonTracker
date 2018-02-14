@@ -7,7 +7,7 @@
 
         public override string ToString()
         {
-            return $"{Name} ({Class1?.ToString()} / {Class2?.ToString()})";
+            return $"{Name} ({Class1} / {Class2})";
         }
     }
 }

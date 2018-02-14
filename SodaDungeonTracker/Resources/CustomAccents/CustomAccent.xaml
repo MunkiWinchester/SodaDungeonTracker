@@ -16,7 +16,7 @@
     <!--  40%  -->
     <Color x:Key="AccentColor3">#510000</Color>
     <!--  20%  -->
-    <Color x:Key="AccentColor4">#5H0000</Color>
+    <Color x:Key="AccentColor4">#500000</Color>
 
     <!--  re-set brushes too  -->
     <SolidColorBrush

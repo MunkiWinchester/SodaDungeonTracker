@@ -1,5 +1,6 @@
 ﻿using SodaDungeonTracker.Business;
 using System.Collections.ObjectModel;
+using System.Windows.Input;
 using WpfUtility.Services;
 
 namespace SodaDungeonTracker.ViewModels
@@ -11,10 +12,21 @@ namespace SodaDungeonTracker.ViewModels
         public ObservableCollection<DataObjects.Track> Tracks
         {
             get => _tracks;
-            set
-            {
-                SetField(ref _tracks, value);
-            }
+            set => SetField(ref _tracks, value);
+        }
+
+        public ICommand StartRunCommand => new DelegateCommand(StartRun);
+
+        public ICommand EndRunCommand => new DelegateCommand(EndRun);
+
+        private static void StartRun()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private static void EndRun()
+        {
+            throw new System.NotImplementedException();
         }
 
         public void Load()

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Reflection;
 using Newtonsoft.Json;
 using SodaDungeonTracker.DataObjects;
-using SodaDungeonTracker.DataObjects.Classes;
-using SodaDungeonTracker.DataObjects.Classes.Abstraction;
 
 namespace SodaDungeonTracker.Business
 {
@@ -36,11 +32,13 @@ namespace SodaDungeonTracker.Business
 
         public static List<Track> LoadPlaylistElements(string path)
         {
-            return JsonConvert.DeserializeObject<List<Track>>(
+            var tracks = JsonConvert.DeserializeObject<List<Track>>(
                 File.ReadAllText(path), new JsonSerializerSettings
                 {
                     TypeNameHandling = TypeNameHandling.Objects
                 });
+            //SaveConfig(tracks, "SodaDungeon.json", $@"{GetBaseFolder()}\Resources");
+            return tracks;
         }
 
         /// <summary>
