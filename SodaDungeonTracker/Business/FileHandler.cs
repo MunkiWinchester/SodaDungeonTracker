@@ -38,13 +38,26 @@ namespace SodaDungeonTracker.Business
                             values[17]
                         };
 
-                        var classSetup = new List<IBaseClass>();
+                        var classSetup = new ClassSetup();
                         foreach (var s in list)
                         {
                             foreach (var baseClass in classes)
                             {
-                                if(baseClass.ToString().Contains(s))
-                                    classSetup.Add((IBaseClass)Activator.CreateInstance(baseClass));
+                                if (baseClass.ToString().Contains(s))
+                                {
+                                    if (classSetup.Class1 == null)
+                                        classSetup.Class1 = ((IBaseClass)Activator.CreateInstance(baseClass));
+                                    else if (classSetup.Class2 == null)
+                                        classSetup.Class2 = ((IBaseClass)Activator.CreateInstance(baseClass));
+                                    else if (classSetup.Class3 == null)
+                                        classSetup.Class3 = ((IBaseClass)Activator.CreateInstance(baseClass));
+                                    else if (classSetup.Class4 == null)
+                                        classSetup.Class4 = ((IBaseClass)Activator.CreateInstance(baseClass));
+                                    else if (classSetup.Class5 == null)
+                                        classSetup.Class5 = ((IBaseClass)Activator.CreateInstance(baseClass));
+                                    else
+                                        break;
+                                }
                             }
                         }
 

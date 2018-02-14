@@ -23,11 +23,11 @@ namespace SodaDungeonTracker.DataObjects
         public DateTime TimeStartTime { get; set; }
         public DateTime TimeEnd { get; set; }
         public TimeSpan TimeDifference => TimeEnd.Subtract(TimeStartTime);
-        public List<IBaseClass> Setup { get; set; }
+        public ClassSetup Setup { get; set; }
 
         public Track()
         {
-            Setup = new List<IBaseClass>();
+            Setup = new ClassSetup();
         }
     }
 }

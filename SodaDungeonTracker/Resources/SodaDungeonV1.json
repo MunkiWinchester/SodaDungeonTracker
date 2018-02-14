@@ -18,28 +18,29 @@
     "TimeStartTime": "2018-02-14T15:43:00",
     "TimeEnd": "2018-02-14T17:54:00",
     "TimeDifference": "02:11:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -60,28 +61,29 @@
     "TimeStartTime": "2018-02-14T18:01:00",
     "TimeEnd": "2018-02-14T19:58:00",
     "TimeDifference": "01:57:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -102,28 +104,29 @@
     "TimeStartTime": "2018-02-14T20:03:00",
     "TimeEnd": "2018-02-14T22:09:00",
     "TimeDifference": "02:06:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -144,28 +147,29 @@
     "TimeStartTime": "2018-02-14T09:57:00",
     "TimeEnd": "2018-02-14T12:32:00",
     "TimeDifference": "02:35:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -186,28 +190,29 @@
     "TimeStartTime": "2018-02-14T21:15:00",
     "TimeEnd": "2018-02-14T22:33:00",
     "TimeDifference": "01:18:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -228,28 +233,29 @@
     "TimeStartTime": "2018-02-14T21:59:00",
     "TimeEnd": "2018-02-14T22:54:00",
     "TimeDifference": "00:55:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -270,28 +276,29 @@
     "TimeStartTime": "2018-02-14T18:06:00",
     "TimeEnd": "2018-02-14T22:37:00",
     "TimeDifference": "04:31:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -312,28 +319,29 @@
     "TimeStartTime": "2018-02-14T18:03:00",
     "TimeEnd": "2018-02-14T23:09:00",
     "TimeDifference": "05:06:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -354,28 +362,29 @@
     "TimeStartTime": "2018-02-14T17:23:00",
     "TimeEnd": "2018-02-14T17:47:00",
     "TimeDifference": "00:24:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -396,28 +405,29 @@
     "TimeStartTime": "2018-02-14T17:54:00",
     "TimeEnd": "2018-02-14T18:15:00",
     "TimeDifference": "00:21:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -438,28 +448,29 @@
     "TimeStartTime": "2018-02-14T18:23:00",
     "TimeEnd": "2018-02-14T18:51:00",
     "TimeDifference": "00:28:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -480,28 +491,29 @@
     "TimeStartTime": "2018-02-14T18:56:00",
     "TimeEnd": "2018-02-14T20:19:00",
     "TimeDifference": "01:23:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -522,28 +534,29 @@
     "TimeStartTime": "2018-02-14T20:24:00",
     "TimeEnd": "2018-02-14T20:45:00",
     "TimeDifference": "00:21:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -564,28 +577,29 @@
     "TimeStartTime": "2018-02-14T20:49:00",
     "TimeEnd": "2018-02-14T20:50:00",
     "TimeDifference": "00:01:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -606,28 +620,29 @@
     "TimeStartTime": "2018-02-14T20:55:00",
     "TimeEnd": "2018-02-14T20:56:00",
     "TimeDifference": "00:01:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -648,28 +663,29 @@
     "TimeStartTime": "2018-02-14T20:58:00",
     "TimeEnd": "2018-02-14T21:00:00",
     "TimeDifference": "00:02:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
         "Name": "Fighter"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
         "Name": "Fighter"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
         "Name": "Fighter"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
         "Name": "Fighter"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
         "Name": "Fighter"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -690,28 +706,29 @@
     "TimeStartTime": "2018-02-14T21:05:00",
     "TimeEnd": "2018-02-14T21:25:00",
     "TimeDifference": "00:20:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -732,28 +749,29 @@
     "TimeStartTime": "2018-02-14T21:33:00",
     "TimeEnd": "2018-02-14T21:44:00",
     "TimeDifference": "00:11:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -774,28 +792,29 @@
     "TimeStartTime": "2018-02-14T21:48:00",
     "TimeEnd": "2018-02-14T21:54:00",
     "TimeDifference": "00:06:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -816,28 +835,29 @@
     "TimeStartTime": "2018-02-14T21:57:00",
     "TimeEnd": "2018-02-14T22:50:00",
     "TimeDifference": "00:53:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -858,28 +878,29 @@
     "TimeStartTime": "2018-02-14T22:56:00",
     "TimeEnd": "2018-02-14T23:00:00",
     "TimeDifference": "00:04:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -900,28 +921,29 @@
     "TimeStartTime": "2018-02-14T23:04:00",
     "TimeEnd": "2018-02-14T23:13:00",
     "TimeDifference": "00:09:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -942,28 +964,29 @@
     "TimeStartTime": "2018-02-14T23:18:00",
     "TimeEnd": "2018-02-14T23:22:00",
     "TimeDifference": "00:04:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -984,28 +1007,29 @@
     "TimeStartTime": "2018-02-14T17:14:00",
     "TimeEnd": "2018-02-14T17:43:00",
     "TimeDifference": "00:29:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1026,28 +1050,29 @@
     "TimeStartTime": "2018-02-14T17:47:00",
     "TimeEnd": "2018-02-14T18:18:00",
     "TimeDifference": "00:31:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
         "Name": "DinnerBoy"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1068,28 +1093,29 @@
     "TimeStartTime": "2018-02-14T19:14:00",
     "TimeEnd": "2018-02-14T22:19:00",
     "TimeDifference": "03:05:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1110,28 +1136,29 @@
     "TimeStartTime": "2018-02-14T17:38:00",
     "TimeEnd": "2018-02-14T21:41:00",
     "TimeDifference": "04:03:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1152,28 +1179,29 @@
     "TimeStartTime": "2018-02-14T20:02:00",
     "TimeEnd": "2018-02-14T23:53:00",
     "TimeDifference": "03:51:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1194,28 +1222,29 @@
     "TimeStartTime": "2018-02-14T09:58:00",
     "TimeEnd": "2018-02-14T11:55:00",
     "TimeDifference": "01:57:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
         "Name": "Healer"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1236,28 +1265,29 @@
     "TimeStartTime": "2018-02-14T17:38:00",
     "TimeEnd": "2018-02-14T21:54:00",
     "TimeDifference": "04:16:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1278,28 +1308,29 @@
     "TimeStartTime": "2018-02-14T22:06:00",
     "TimeEnd": "2018-02-14T22:59:00",
     "TimeDifference": "00:53:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
         "Name": "Ragezerker"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
         "Name": "Conscript"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1320,30 +1351,31 @@
     "TimeStartTime": "2018-02-14T17:59:00",
     "TimeEnd": "2018-02-14T18:58:00",
     "TimeDifference": "00:59:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1364,30 +1396,31 @@
     "TimeStartTime": "2018-02-14T19:08:00",
     "TimeEnd": "2018-02-14T20:51:00",
     "TimeDifference": "01:43:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1408,30 +1441,31 @@
     "TimeStartTime": "2018-02-14T21:01:00",
     "TimeEnd": "2018-02-14T22:37:00",
     "TimeDifference": "01:36:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1452,32 +1486,33 @@
     "TimeStartTime": "2018-02-14T07:00:00",
     "TimeEnd": "2018-02-14T10:27:00",
     "TimeDifference": "03:27:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1498,30 +1533,31 @@
     "TimeStartTime": "2018-02-14T17:21:00",
     "TimeEnd": "2018-02-14T19:50:00",
     "TimeDifference": "02:29:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1542,28 +1578,29 @@
     "TimeStartTime": "2018-02-14T20:02:00",
     "TimeEnd": "2018-02-14T22:42:00",
     "TimeDifference": "02:40:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1584,28 +1621,29 @@
     "TimeStartTime": "2018-02-14T18:22:00",
     "TimeEnd": "2018-02-14T21:47:00",
     "TimeDifference": "03:25:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1626,28 +1664,29 @@
     "TimeStartTime": "2018-02-14T17:30:00",
     "TimeEnd": "2018-02-14T18:09:00",
     "TimeDifference": "00:39:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1668,30 +1707,31 @@
     "TimeStartTime": "2018-02-14T18:20:00",
     "TimeEnd": "2018-02-14T19:32:00",
     "TimeDifference": "01:12:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Merchant, SodaDungeonTracker",
         "Name": "Merchant"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1712,30 +1752,31 @@
     "TimeStartTime": "2018-02-14T19:38:00",
     "TimeEnd": "2018-02-14T21:09:00",
     "TimeDifference": "01:31:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Merchant, SodaDungeonTracker",
         "Name": "Merchant"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1756,30 +1797,31 @@
     "TimeStartTime": "2018-02-14T21:42:00",
     "TimeEnd": "2018-02-14T22:26:00",
     "TimeDifference": "00:44:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Name": "Shifter",
         "Class1": null,
         "Class2": null
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1800,28 +1842,29 @@
     "TimeStartTime": "2018-02-14T22:32:00",
     "TimeEnd": "2018-02-14T01:33:00",
     "TimeDifference": "-20:59:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1842,28 +1885,29 @@
     "TimeStartTime": "2018-02-14T10:10:00",
     "TimeEnd": "2018-02-14T11:11:00",
     "TimeDifference": "01:01:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1884,28 +1928,29 @@
     "TimeStartTime": "2018-02-14T20:09:00",
     "TimeEnd": "2018-02-14T21:34:00",
     "TimeDifference": "01:25:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1926,28 +1971,29 @@
     "TimeStartTime": "2018-02-14T21:39:00",
     "TimeEnd": "2018-02-14T22:58:00",
     "TimeDifference": "01:19:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -1968,28 +2014,29 @@
     "TimeStartTime": "2018-02-14T17:48:00",
     "TimeEnd": "2018-02-14T19:58:00",
     "TimeDifference": "02:10:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -2010,28 +2057,29 @@
     "TimeStartTime": "2018-02-14T20:05:00",
     "TimeEnd": "2018-02-14T20:11:00",
     "TimeDifference": "00:06:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -2052,28 +2100,29 @@
     "TimeStartTime": "2018-02-14T20:15:00",
     "TimeEnd": "2018-02-14T21:37:00",
     "TimeDifference": "01:22:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -2094,28 +2143,29 @@
     "TimeStartTime": "2018-02-14T21:42:00",
     "TimeEnd": "2018-02-14T22:52:00",
     "TimeDifference": "01:10:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Track, SodaDungeonTracker",
@@ -2136,27 +2186,28 @@
     "TimeStartTime": "2018-02-14T19:26:00",
     "TimeEnd": "2018-02-14T21:42:00",
     "TimeDifference": "02:16:00",
-    "Setup": [
-      {
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
         "Name": "DarkMage"
       },
-      {
+      "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
         "Name": "Wizard"
       },
-      {
+      "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
         "Name": "Knight"
       },
-      {
+      "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
         "Name": "Thief"
       }
-    ]
+    }
   }
 ]
