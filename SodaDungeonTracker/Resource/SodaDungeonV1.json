@@ -1,0 +1,1944 @@
+[
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 203000,
+    "EndGold": 2800000,
+    "GoldDifference": 2597000,
+    "StartEssence": 12,
+    "EndEssence": 599,
+    "EssenceDifference": 587,
+    "StartLevel": 1,
+    "EndLevel": 845,
+    "LevelDifference": 844,
+    "StartTime": "2018-02-14T15:43:00",
+    "EndTime": "2018-02-14T17:54:00",
+    "TimeDifference": "02:11:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 1100000,
+    "EndGold": 3700000,
+    "GoldDifference": 2600000,
+    "StartEssence": 2,
+    "EndEssence": 935,
+    "EssenceDifference": 933,
+    "StartLevel": 1,
+    "EndLevel": 901,
+    "LevelDifference": 900,
+    "StartTime": "2018-02-14T18:01:00",
+    "EndTime": "2018-02-14T19:58:00",
+    "TimeDifference": "01:57:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 3900000,
+    "EndGold": 15600000,
+    "GoldDifference": 11700000,
+    "StartEssence": 5,
+    "EndEssence": 1000,
+    "EssenceDifference": 995,
+    "StartLevel": 1,
+    "EndLevel": 1123,
+    "LevelDifference": 1122,
+    "StartTime": "2018-02-14T20:03:00",
+    "EndTime": "2018-02-14T22:09:00",
+    "TimeDifference": "02:06:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 421000,
+    "EndGold": 33200000,
+    "GoldDifference": 32779000,
+    "StartEssence": 8,
+    "EndEssence": 2900,
+    "EssenceDifference": 2892,
+    "StartLevel": 1,
+    "EndLevel": 1781,
+    "LevelDifference": 1780,
+    "StartTime": "2018-02-14T09:57:00",
+    "EndTime": "2018-02-14T12:32:00",
+    "TimeDifference": "02:35:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 41000000,
+    "EndGold": 52900000,
+    "GoldDifference": 11900000,
+    "StartEssence": 6,
+    "EndEssence": 278,
+    "EssenceDifference": 272,
+    "StartLevel": 1,
+    "EndLevel": 1093,
+    "LevelDifference": 1092,
+    "StartTime": "2018-02-14T21:15:00",
+    "EndTime": "2018-02-14T22:33:00",
+    "TimeDifference": "01:18:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 52900000,
+    "EndGold": 62000000,
+    "GoldDifference": 9100000,
+    "StartEssence": 74,
+    "EndEssence": 213,
+    "EssenceDifference": 139,
+    "StartLevel": 1,
+    "EndLevel": 789,
+    "LevelDifference": 788,
+    "StartTime": "2018-02-14T21:59:00",
+    "EndTime": "2018-02-14T22:54:00",
+    "TimeDifference": "00:55:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 153000,
+    "EndGold": 247500000,
+    "GoldDifference": 247347000,
+    "StartEssence": 83,
+    "EndEssence": 3800,
+    "EssenceDifference": 3717,
+    "StartLevel": 1,
+    "EndLevel": 5258,
+    "LevelDifference": 5257,
+    "StartTime": "2018-02-14T18:06:00",
+    "EndTime": "2018-02-14T22:37:00",
+    "TimeDifference": "04:31:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 2300,
+    "EndGold": 442200000,
+    "GoldDifference": 442197700,
+    "StartEssence": 1100,
+    "EndEssence": 6300,
+    "EssenceDifference": 5200,
+    "StartLevel": 1,
+    "EndLevel": 6147,
+    "LevelDifference": 6146,
+    "StartTime": "2018-02-14T18:03:00",
+    "EndTime": "2018-02-14T23:09:00",
+    "TimeDifference": "05:06:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 4,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 700,
+    "EndGold": 29800000,
+    "GoldDifference": 29799300,
+    "StartEssence": 143,
+    "EndEssence": 324,
+    "EssenceDifference": 181,
+    "StartLevel": 2001,
+    "EndLevel": 2840,
+    "LevelDifference": 839,
+    "StartTime": "2018-02-14T17:23:00",
+    "EndTime": "2018-02-14T17:47:00",
+    "TimeDifference": "00:24:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 5,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 440,
+    "EndGold": 2600000,
+    "GoldDifference": 2599560,
+    "StartEssence": 210,
+    "EndEssence": 296,
+    "EssenceDifference": 86,
+    "StartLevel": 1,
+    "EndLevel": 499,
+    "LevelDifference": 498,
+    "StartTime": "2018-02-14T17:54:00",
+    "EndTime": "2018-02-14T18:15:00",
+    "TimeDifference": "00:21:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 5,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 1600,
+    "EndGold": 3300000,
+    "GoldDifference": 3298400,
+    "StartEssence": 13,
+    "EndEssence": 77,
+    "EssenceDifference": 64,
+    "StartLevel": 1,
+    "EndLevel": 499,
+    "LevelDifference": 498,
+    "StartTime": "2018-02-14T18:23:00",
+    "EndTime": "2018-02-14T18:51:00",
+    "TimeDifference": "00:28:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 5,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 105,
+    "EndGold": 26900000,
+    "GoldDifference": 26899895,
+    "StartEssence": 5,
+    "EndEssence": 313,
+    "EssenceDifference": 308,
+    "StartLevel": 1,
+    "EndLevel": 1499,
+    "LevelDifference": 1498,
+    "StartTime": "2018-02-14T18:56:00",
+    "EndTime": "2018-02-14T20:19:00",
+    "TimeDifference": "01:23:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 6,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 5400,
+    "EndGold": 3100000,
+    "GoldDifference": 3094600,
+    "StartEssence": 126,
+    "EndEssence": 199,
+    "EssenceDifference": 73,
+    "StartLevel": 1,
+    "EndLevel": 499,
+    "LevelDifference": 498,
+    "StartTime": "2018-02-14T20:24:00",
+    "EndTime": "2018-02-14T20:45:00",
+    "TimeDifference": "00:21:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 6,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 1700,
+    "EndGold": 218900,
+    "GoldDifference": 217200,
+    "StartEssence": 489,
+    "EndEssence": 493,
+    "EssenceDifference": 4,
+    "StartLevel": 591,
+    "EndLevel": 600,
+    "LevelDifference": 9,
+    "StartTime": "2018-02-14T20:49:00",
+    "EndTime": "2018-02-14T20:50:00",
+    "TimeDifference": "00:01:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 7,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 5400,
+    "EndGold": 159800,
+    "GoldDifference": 154400,
+    "StartEssence": 32,
+    "EndEssence": 32,
+    "EssenceDifference": 0,
+    "StartLevel": 691,
+    "EndLevel": 699,
+    "LevelDifference": 8,
+    "StartTime": "2018-02-14T20:55:00",
+    "EndTime": "2018-02-14T20:56:00",
+    "TimeDifference": "00:01:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 7,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 3500,
+    "EndGold": 249700,
+    "GoldDifference": 246200,
+    "StartEssence": 5,
+    "EndEssence": 5,
+    "EssenceDifference": 0,
+    "StartLevel": 691,
+    "EndLevel": 700,
+    "LevelDifference": 9,
+    "StartTime": "2018-02-14T20:58:00",
+    "EndTime": "2018-02-14T21:00:00",
+    "TimeDifference": "00:02:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Fighter, SodaDungeonTracker",
+        "Name": "Fighter"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Fighter, SodaDungeonTracker",
+        "Name": "Fighter"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Fighter, SodaDungeonTracker",
+        "Name": "Fighter"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Fighter, SodaDungeonTracker",
+        "Name": "Fighter"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Fighter, SodaDungeonTracker",
+        "Name": "Fighter"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 8,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 5500,
+    "EndGold": 3200000,
+    "GoldDifference": 3194500,
+    "StartEssence": 37,
+    "EndEssence": 96,
+    "EssenceDifference": 59,
+    "StartLevel": 1,
+    "EndLevel": 499,
+    "LevelDifference": 498,
+    "StartTime": "2018-02-14T21:05:00",
+    "EndTime": "2018-02-14T21:25:00",
+    "TimeDifference": "00:20:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 8,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 20300,
+    "EndGold": 3400000,
+    "GoldDifference": 3379700,
+    "StartEssence": 4,
+    "EndEssence": 154,
+    "EssenceDifference": 150,
+    "StartLevel": 501,
+    "EndLevel": 699,
+    "LevelDifference": 198,
+    "StartTime": "2018-02-14T21:33:00",
+    "EndTime": "2018-02-14T21:44:00",
+    "TimeDifference": "00:11:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 8,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 55900,
+    "EndGold": 2400000,
+    "GoldDifference": 2344100,
+    "StartEssence": 5,
+    "EndEssence": 130,
+    "EssenceDifference": 125,
+    "StartLevel": 701,
+    "EndLevel": 800,
+    "LevelDifference": 99,
+    "StartTime": "2018-02-14T21:48:00",
+    "EndTime": "2018-02-14T21:54:00",
+    "TimeDifference": "00:06:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 8,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 50,
+    "EndGold": 25500000,
+    "GoldDifference": 25499950,
+    "StartEssence": 21,
+    "EndEssence": 1300,
+    "EssenceDifference": 1279,
+    "StartLevel": 701,
+    "EndLevel": 1499,
+    "LevelDifference": 798,
+    "StartTime": "2018-02-14T21:57:00",
+    "EndTime": "2018-02-14T22:50:00",
+    "TimeDifference": "00:53:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 9,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 5400,
+    "EndGold": 2400000,
+    "GoldDifference": 2394600,
+    "StartEssence": 1,
+    "EndEssence": 93,
+    "EssenceDifference": 92,
+    "StartLevel": 801,
+    "EndLevel": 900,
+    "LevelDifference": 99,
+    "StartTime": "2018-02-14T22:56:00",
+    "EndTime": "2018-02-14T23:00:00",
+    "TimeDifference": "00:04:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 10,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 5400,
+    "EndGold": 4900000,
+    "GoldDifference": 4894600,
+    "StartEssence": 1,
+    "EndEssence": 223,
+    "EssenceDifference": 222,
+    "StartLevel": 801,
+    "EndLevel": 999,
+    "LevelDifference": 198,
+    "StartTime": "2018-02-14T23:04:00",
+    "EndTime": "2018-02-14T23:13:00",
+    "TimeDifference": "00:09:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 10,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 4900000,
+    "EndGold": 7900000,
+    "GoldDifference": 3000000,
+    "StartEssence": 30,
+    "EndEssence": 158,
+    "EssenceDifference": 128,
+    "StartLevel": 901,
+    "EndLevel": 1000,
+    "LevelDifference": 99,
+    "StartTime": "2018-02-14T23:18:00",
+    "EndTime": "2018-02-14T23:22:00",
+    "TimeDifference": "00:04:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 5500,
+    "EndGold": 7200000,
+    "GoldDifference": 7194500,
+    "StartEssence": 5,
+    "EndEssence": 606,
+    "EssenceDifference": 601,
+    "StartLevel": 1,
+    "EndLevel": 799,
+    "LevelDifference": 798,
+    "StartTime": "2018-02-14T17:14:00",
+    "EndTime": "2018-02-14T17:43:00",
+    "TimeDifference": "00:29:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 751900,
+    "EndGold": 6400000,
+    "GoldDifference": 5648100,
+    "StartEssence": 34,
+    "EndEssence": 662,
+    "EssenceDifference": 628,
+    "StartLevel": 1,
+    "EndLevel": 648,
+    "LevelDifference": 647,
+    "StartTime": "2018-02-14T17:47:00",
+    "EndTime": "2018-02-14T18:18:00",
+    "TimeDifference": "00:31:00",
+    "Setup": []
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 2000,
+    "EndGold": 199000000,
+    "GoldDifference": 198998000,
+    "StartEssence": 30,
+    "EndEssence": 12700,
+    "EssenceDifference": 12670,
+    "StartLevel": 1,
+    "EndLevel": 3487,
+    "LevelDifference": 3486,
+    "StartTime": "2018-02-14T19:14:00",
+    "EndTime": "2018-02-14T22:19:00",
+    "TimeDifference": "03:05:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 2100,
+    "EndGold": 538800000,
+    "GoldDifference": 538797900,
+    "StartEssence": 19,
+    "EndEssence": 58000,
+    "EssenceDifference": 57981,
+    "StartLevel": 1,
+    "EndLevel": 4679,
+    "LevelDifference": 4678,
+    "StartTime": "2018-02-14T17:38:00",
+    "EndTime": "2018-02-14T21:41:00",
+    "TimeDifference": "04:03:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 538800000,
+    "EndGold": 1163670000,
+    "GoldDifference": 624870000,
+    "StartEssence": 139,
+    "EndEssence": 54400,
+    "EssenceDifference": 54261,
+    "StartLevel": 1,
+    "EndLevel": 4499,
+    "LevelDifference": 4498,
+    "StartTime": "2018-02-14T20:02:00",
+    "EndTime": "2018-02-14T23:53:00",
+    "TimeDifference": "03:51:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 3200,
+    "EndGold": 279000000,
+    "GoldDifference": 278996800,
+    "StartEssence": 261,
+    "EndEssence": 12000,
+    "EssenceDifference": 11739,
+    "StartLevel": 1,
+    "EndLevel": 2044,
+    "LevelDifference": 2043,
+    "StartTime": "2018-02-14T09:58:00",
+    "EndTime": "2018-02-14T11:55:00",
+    "TimeDifference": "01:57:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Healer, SodaDungeonTracker",
+        "Name": "Healer"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 2700,
+    "EndGold": 1275685000,
+    "GoldDifference": 1275682300,
+    "StartEssence": 507,
+    "EndEssence": 54900,
+    "EssenceDifference": 54393,
+    "StartLevel": 1,
+    "EndLevel": 4500,
+    "LevelDifference": 4499,
+    "StartTime": "2018-02-14T17:38:00",
+    "EndTime": "2018-02-14T21:54:00",
+    "TimeDifference": "04:16:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": false,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 1135000,
+    "EndGold": 38925000,
+    "GoldDifference": 37790000,
+    "StartEssence": 47,
+    "EndEssence": 2700,
+    "EssenceDifference": 2653,
+    "StartLevel": 1,
+    "EndLevel": 1066,
+    "LevelDifference": 1065,
+    "StartTime": "2018-02-14T22:06:00",
+    "EndTime": "2018-02-14T22:59:00",
+    "TimeDifference": "00:53:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Ragezerker, SodaDungeonTracker",
+        "Name": "Ragezerker"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Conscript, SodaDungeonTracker",
+        "Name": "Conscript"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 38925000,
+    "EndGold": 392830000,
+    "GoldDifference": 353905000,
+    "StartEssence": 91,
+    "EndEssence": 12200,
+    "EssenceDifference": 12109,
+    "StartLevel": 601,
+    "EndLevel": 2364,
+    "LevelDifference": 1763,
+    "StartTime": "2018-02-14T17:59:00",
+    "EndTime": "2018-02-14T18:58:00",
+    "TimeDifference": "00:59:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 4100,
+    "EndGold": 1027880000,
+    "GoldDifference": 1027875900,
+    "StartEssence": 486,
+    "EndEssence": 30500,
+    "EssenceDifference": 30014,
+    "StartLevel": 401,
+    "EndLevel": 3599,
+    "LevelDifference": 3198,
+    "StartTime": "2018-02-14T19:08:00",
+    "EndTime": "2018-02-14T20:51:00",
+    "TimeDifference": "01:43:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 2800,
+    "EndGold": 1408155000,
+    "GoldDifference": 1408152200,
+    "StartEssence": 500,
+    "EndEssence": 36400,
+    "EssenceDifference": 35900,
+    "StartLevel": 401,
+    "EndLevel": 3903,
+    "LevelDifference": 3502,
+    "StartTime": "2018-02-14T21:01:00",
+    "EndTime": "2018-02-14T22:37:00",
+    "TimeDifference": "01:36:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 1,
+    "CapDifference": 1,
+    "StartGold": 4100,
+    "EndGold": 500595000,
+    "GoldDifference": 500590900,
+    "StartEssence": 2900,
+    "EndEssence": 96700,
+    "EssenceDifference": 93800,
+    "StartLevel": 1,
+    "EndLevel": 6387,
+    "LevelDifference": 6386,
+    "StartTime": "2018-02-14T07:00:00",
+    "EndTime": "2018-02-14T10:27:00",
+    "TimeDifference": "03:27:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 1,
+    "EndCaps": 3,
+    "CapDifference": 2,
+    "StartGold": 3500,
+    "EndGold": 769875000,
+    "GoldDifference": 769871500,
+    "StartEssence": 2900,
+    "EndEssence": 65000,
+    "EssenceDifference": 62100,
+    "StartLevel": 1,
+    "EndLevel": 5092,
+    "LevelDifference": 5091,
+    "StartTime": "2018-02-14T17:21:00",
+    "EndTime": "2018-02-14T19:50:00",
+    "TimeDifference": "02:29:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 3,
+    "EndCaps": 6,
+    "CapDifference": 3,
+    "StartGold": 2500,
+    "EndGold": 1277910000,
+    "GoldDifference": 1277907500,
+    "StartEssence": 2000,
+    "EndEssence": 89300,
+    "EssenceDifference": 87300,
+    "StartLevel": 1,
+    "EndLevel": 6002,
+    "LevelDifference": 6001,
+    "StartTime": "2018-02-14T20:02:00",
+    "EndTime": "2018-02-14T22:42:00",
+    "TimeDifference": "02:40:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 7,
+    "CapDifference": 7,
+    "StartGold": 163,
+    "EndGold": 1262160000,
+    "GoldDifference": 1262159837,
+    "StartEssence": 323,
+    "EndEssence": 123200,
+    "EssenceDifference": 122877,
+    "StartLevel": 1,
+    "EndLevel": 7201,
+    "LevelDifference": 7200,
+    "StartTime": "2018-02-14T18:22:00",
+    "EndTime": "2018-02-14T21:47:00",
+    "TimeDifference": "03:25:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 0,
+    "CapDifference": 0,
+    "StartGold": 2100,
+    "EndGold": 1266155000,
+    "GoldDifference": 1266152900,
+    "StartEssence": 2500,
+    "EndEssence": 16300,
+    "EssenceDifference": 13800,
+    "StartLevel": 2001,
+    "EndLevel": 3204,
+    "LevelDifference": 1203,
+    "StartTime": "2018-02-14T17:30:00",
+    "EndTime": "2018-02-14T18:09:00",
+    "TimeDifference": "00:39:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 0,
+    "EndCaps": 1,
+    "CapDifference": 1,
+    "StartGold": 4300,
+    "EndGold": 619220000,
+    "GoldDifference": 619215700,
+    "StartEssence": 100,
+    "EndEssence": 21100,
+    "EssenceDifference": 21000,
+    "StartLevel": 1001,
+    "EndLevel": 3465,
+    "LevelDifference": 2464,
+    "StartTime": "2018-02-14T18:20:00",
+    "EndTime": "2018-02-14T19:32:00",
+    "TimeDifference": "01:12:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 1,
+    "EndCaps": 1,
+    "CapDifference": 0,
+    "StartGold": 3200,
+    "EndGold": 1337720000,
+    "GoldDifference": 1337716800,
+    "StartEssence": 1500,
+    "EndEssence": 18300,
+    "EssenceDifference": 16800,
+    "StartLevel": 1,
+    "EndLevel": 2527,
+    "LevelDifference": 2526,
+    "StartTime": "2018-02-14T19:38:00",
+    "EndTime": "2018-02-14T21:09:00",
+    "TimeDifference": "01:31:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 1,
+    "EndCaps": 1,
+    "CapDifference": 0,
+    "StartGold": 979,
+    "EndGold": 1435600000,
+    "GoldDifference": 1435599021,
+    "StartEssence": 285800,
+    "EndEssence": 301600,
+    "EssenceDifference": 15800,
+    "StartLevel": 2001,
+    "EndLevel": 3372,
+    "LevelDifference": 1371,
+    "StartTime": "2018-02-14T21:42:00",
+    "EndTime": "2018-02-14T22:26:00",
+    "TimeDifference": "00:44:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Shifter, SodaDungeonTracker",
+        "Name": "Shifter",
+        "Class1": null,
+        "Class2": null
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 1,
+    "EndCaps": 13,
+    "CapDifference": 12,
+    "StartGold": 3600,
+    "EndGold": 1150815000,
+    "GoldDifference": 1150811400,
+    "StartEssence": 586700,
+    "EndEssence": 762000,
+    "EssenceDifference": 175300,
+    "StartLevel": 2001,
+    "EndLevel": 8711,
+    "LevelDifference": 6710,
+    "StartTime": "2018-02-14T22:32:00",
+    "EndTime": "2018-02-14T01:33:00",
+    "TimeDifference": "-20:59:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 1,
+    "EndCaps": 6,
+    "CapDifference": 5,
+    "StartGold": 1200,
+    "EndGold": 654110000,
+    "GoldDifference": 654108800,
+    "StartEssence": 1700,
+    "EndEssence": 60500,
+    "EssenceDifference": 58800,
+    "StartLevel": 4001,
+    "EndLevel": 6191,
+    "LevelDifference": 2190,
+    "StartTime": "2018-02-14T10:10:00",
+    "EndTime": "2018-02-14T11:11:00",
+    "TimeDifference": "01:01:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 6,
+    "EndCaps": 14,
+    "CapDifference": 8,
+    "StartGold": 241,
+    "EndGold": 858440000,
+    "GoldDifference": 858439759,
+    "StartEssence": 2400,
+    "EndEssence": 92600,
+    "EssenceDifference": 90200,
+    "StartLevel": 4001,
+    "EndLevel": 7397,
+    "LevelDifference": 3396,
+    "StartTime": "2018-02-14T20:09:00",
+    "EndTime": "2018-02-14T21:34:00",
+    "TimeDifference": "01:25:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 14,
+    "EndCaps": 20,
+    "CapDifference": 6,
+    "StartGold": 3600,
+    "EndGold": 687590000,
+    "GoldDifference": 687586400,
+    "StartEssence": 1500,
+    "EndEssence": 68500,
+    "EssenceDifference": 67000,
+    "StartLevel": 3001,
+    "EndLevel": 6016,
+    "LevelDifference": 3015,
+    "StartTime": "2018-02-14T21:39:00",
+    "EndTime": "2018-02-14T22:58:00",
+    "TimeDifference": "01:19:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 20,
+    "EndCaps": 35,
+    "CapDifference": 15,
+    "StartGold": 1700,
+    "EndGold": 1157520000,
+    "GoldDifference": 1157518300,
+    "StartEssence": 44,
+    "EndEssence": 159700,
+    "EssenceDifference": 159656,
+    "StartLevel": 4001,
+    "EndLevel": 9109,
+    "LevelDifference": 5108,
+    "StartTime": "2018-02-14T17:48:00",
+    "EndTime": "2018-02-14T19:58:00",
+    "TimeDifference": "02:10:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 35,
+    "EndCaps": 35,
+    "CapDifference": 0,
+    "StartGold": 1700,
+    "EndGold": 580560000,
+    "GoldDifference": 580558300,
+    "StartEssence": 5300,
+    "EndEssence": 11600,
+    "EssenceDifference": 6300,
+    "StartLevel": 6001,
+    "EndLevel": 6208,
+    "LevelDifference": 207,
+    "StartTime": "2018-02-14T20:05:00",
+    "EndTime": "2018-02-14T20:11:00",
+    "TimeDifference": "00:06:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 35,
+    "EndCaps": 43,
+    "CapDifference": 8,
+    "StartGold": 4400,
+    "EndGold": 1118410000,
+    "GoldDifference": 1118405600,
+    "StartEssence": 700,
+    "EndEssence": 88800,
+    "EssenceDifference": 88100,
+    "StartLevel": 4001,
+    "EndLevel": 7288,
+    "LevelDifference": 3287,
+    "StartTime": "2018-02-14T20:15:00",
+    "EndTime": "2018-02-14T21:37:00",
+    "TimeDifference": "01:22:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 43,
+    "EndCaps": 49,
+    "CapDifference": 6,
+    "StartGold": 4800,
+    "EndGold": 1146600000,
+    "GoldDifference": 1146595200,
+    "StartEssence": 45,
+    "EndEssence": 68400,
+    "EssenceDifference": 68355,
+    "StartLevel": 3700,
+    "EndLevel": 6492,
+    "LevelDifference": 2792,
+    "StartTime": "2018-02-14T21:42:00",
+    "EndTime": "2018-02-14T22:52:00",
+    "TimeDifference": "01:10:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  },
+  {
+    "$type": "SodaDungeonTracker.Track, SodaDungeonTracker",
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "StartCaps": 49,
+    "EndCaps": 67,
+    "CapDifference": 18,
+    "StartGold": 1146600000,
+    "EndGold": 1237705000,
+    "GoldDifference": 91105000,
+    "StartEssence": 64400,
+    "EndEssence": 235800,
+    "EssenceDifference": 171400,
+    "StartLevel": 4001,
+    "EndLevel": 9406,
+    "LevelDifference": 5405,
+    "StartTime": "2018-02-14T19:26:00",
+    "EndTime": "2018-02-14T21:42:00",
+    "TimeDifference": "02:16:00",
+    "Setup": [
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.DarkMage, SodaDungeonTracker",
+        "Name": "DarkMage"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Wizard, SodaDungeonTracker",
+        "Name": "Wizard"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Knight, SodaDungeonTracker",
+        "Name": "Knight"
+      },
+      {
+        "$type": "SodaDungeonTracker.Classes.Thief, SodaDungeonTracker",
+        "Name": "Thief"
+      }
+    ]
+  }
+]
