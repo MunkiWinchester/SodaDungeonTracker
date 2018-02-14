@@ -69,7 +69,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="DataObjects\Classes\IBaseClass.cs" />
+    <Compile Include="DataObjects\Classes\Abstraction\BaseClass.cs" />
+    <Compile Include="DataObjects\Classes\Abstraction\IBaseClass.cs" />
     <Compile Include="DataObjects\Classes\Gladiator.cs" />
     <Compile Include="DataObjects\Classes\Owner.cs" />
     <Compile Include="DataObjects\Classes\Shopkeeper.cs" />
@@ -139,10 +140,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <EmbeddedResource Include="Resources\SodaDungeon.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\SodaDungeonV1.json">
+    <EmbeddedResource Include="Resources\SodaDungeon.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
     <Resource Include="Resources\Entypo.ttf" />

@@ -13,7 +13,6 @@ namespace SodaDungeonTracker.ViewModels
             get => _tracks;
             set
             {
-                _tracks = value;
                 SetField(ref _tracks, value);
             }
         }
@@ -22,7 +21,7 @@ namespace SodaDungeonTracker.ViewModels
         {
             //FileHandler.LoadCsv();
             var list = FileHandler.LoadPlaylistElements(
-                $@"{FileHandler.GetBaseFolder()}\Resources\SodaDungeonV1.json");
+                $@"{FileHandler.GetBaseFolder()}\Resources\SodaDungeon.json");
             Tracks = new ObservableCollection<DataObjects.Track>(list);
         }
     }

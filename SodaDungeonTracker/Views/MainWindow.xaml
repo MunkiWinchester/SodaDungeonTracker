@@ -21,6 +21,12 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="/Resources/Icons.xaml" />
             </ResourceDictionary.MergedDictionaries>
+            <Style BasedOn="{StaticResource MetroDataGridCell}" TargetType="DataGridCell">
+                <Style.Setters>
+                    <Setter Property="TextBlock.TextAlignment" Value="Right" />
+                    <Setter Property="TextBlock.VerticalAlignment" Value="Center" />
+                </Style.Setters>
+            </Style>
         </ResourceDictionary>
     </Window.Resources>
     <controls:MetroWindow.DataContext>
@@ -33,12 +39,60 @@
                   ItemsSource="{Binding Tracks}">
             <DataGrid.Columns>
                 <DataGridTextColumn Width="Auto"
-                                    Binding="{Binding Dimension}"
-                                    Header="Dimension" />
+                                    Binding="{Binding Id, Mode=OneWay}"
+                                    Header="Id" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding Dimension, Mode=OneWay}"
+                                    Header="Dim." />
                 <DataGridCheckBoxColumn Width="Auto"
-                                        Binding="{Binding LairOfDespair}"
-                                        Header="Lair of Despair" />
-                <DataGridTemplateColumn Width="*"
+                                        Binding="{Binding LairOfDespair, Mode=OneWay}"
+                                        Header="LoD?" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding CapsStart, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="CapsStart" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding CapsEnd, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="CapsEnd" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding CapsDifference, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="CapsDifference" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding GoldStart, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="GoldStart" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding GoldEnd, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="GoldEnd" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding GoldDifference, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="GoldDifference" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding EssenceStart, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="EssenceStart" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding EssenceEnd, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="EssenceEnd" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding EssenceDifference, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="EssenceDifference" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding LevelStart, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="LevelStart" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding LevelEnd, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="LevelEnd" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding LevelDifference, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="LevelDifference" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding TimeStartTime, Mode=OneWay, StringFormat={}{0:HH:mm}}"
+                                    Header="TimeStart" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding TimeEnd, Mode=OneWay, StringFormat={}{0:HH:mm}}"
+                                    Header="TimeEnd" />
+                <DataGridTextColumn Width="Auto"
+                                    Binding="{Binding TimeDifference, Mode=OneWay}"
+                                    Header="TimeDifference" />
+                <DataGridTemplateColumn Width="Auto"
                                         Header="Setup"
                                         IsReadOnly="True"
                                         Visibility="Visible">
@@ -47,24 +101,29 @@
                             <StackPanel Orientation="Horizontal">
                                 <Image Width="25"
                                        Height="25"
+                                       Margin="2"
                                        Source="{Binding Setup.Class1.Image, Mode=OneWay}"
-                                       ToolTip="{Binding Setup.Class1.Name, Mode=OneWay}" />
+                                       ToolTip="{Binding Setup.Class1, Mode=OneWay}" />
                                 <Image Width="25"
                                        Height="25"
+                                       Margin="2"
                                        Source="{Binding Setup.Class2.Image, Mode=OneWay}"
-                                       ToolTip="{Binding Setup.Class2.Name, Mode=OneWay}" />
+                                       ToolTip="{Binding Setup.Class2, Mode=OneWay}" />
                                 <Image Width="25"
                                        Height="25"
+                                       Margin="2"
                                        Source="{Binding Setup.Class3.Image, Mode=OneWay}"
-                                       ToolTip="{Binding Setup.Class3.Name, Mode=OneWay}" />
+                                       ToolTip="{Binding Setup.Class3, Mode=OneWay}" />
                                 <Image Width="25"
                                        Height="25"
+                                       Margin="2"
                                        Source="{Binding Setup.Class4.Image, Mode=OneWay}"
-                                       ToolTip="{Binding Setup.Class4.Name, Mode=OneWay}" />
+                                       ToolTip="{Binding Setup.Class4, Mode=OneWay}" />
                                 <Image Width="25"
                                        Height="25"
+                                       Margin="2"
                                        Source="{Binding Setup.Class5.Image, Mode=OneWay}"
-                                       ToolTip="{Binding Setup.Class5.Name, Mode=OneWay}" />
+                                       ToolTip="{Binding Setup.Class5, Mode=OneWay}" />
                             </StackPanel>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>

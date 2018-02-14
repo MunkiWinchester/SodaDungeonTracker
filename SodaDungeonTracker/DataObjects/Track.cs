@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using SodaDungeonTracker.DataObjects.Classes;
 
 namespace SodaDungeonTracker.DataObjects
 {
     public class Track
     {
+        public int Id { get; set; }
         public int Dimension { get; set; }
         public bool LairOfDespair { get; set; }
         public int CapsStart { get; set; }

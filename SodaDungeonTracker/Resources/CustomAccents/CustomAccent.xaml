@@ -6,17 +6,17 @@
     mc:Ignorable="options">
 
     <!--  ACCENT COLORS  -->
-    <Color x:Key="HighlightColor">#1CCA59</Color>
+    <Color x:Key="HighlightColor">#5F0000</Color>
 
-    <Color x:Key="AccentBaseColor">#1CCA59</Color>
+    <Color x:Key="AccentBaseColor">#5D0000</Color>
     <!--  80%  -->
-    <Color x:Key="AccentColor">#CC1ED760</Color>
+    <Color x:Key="AccentColor">#5C0000</Color>
     <!--  60%  -->
-    <Color x:Key="AccentColor2">#991ED760</Color>
+    <Color x:Key="AccentColor2">#5E0000</Color>
     <!--  40%  -->
-    <Color x:Key="AccentColor3">#661ED760</Color>
+    <Color x:Key="AccentColor3">#510000</Color>
     <!--  20%  -->
-    <Color x:Key="AccentColor4">#331ED760</Color>
+    <Color x:Key="AccentColor4">#5H0000</Color>
 
     <!--  re-set brushes too  -->
     <SolidColorBrush

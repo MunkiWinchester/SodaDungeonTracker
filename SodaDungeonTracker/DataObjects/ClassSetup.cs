@@ -2,10 +2,10 @@
 {
     public class ClassSetup
     {
-        public Classes.IBaseClass Class1 { get; set; }
-        public Classes.IBaseClass Class2 { get; set; }
-        public Classes.IBaseClass Class3 { get; set; }
-        public Classes.IBaseClass Class4 { get; set; }
-        public Classes.IBaseClass Class5 { get; set; }
+        public Classes.Abstraction.BaseClass Class1 { get; set; }
+        public Classes.Abstraction.BaseClass Class2 { get; set; }
+        public Classes.Abstraction.BaseClass Class3 { get; set; }
+        public Classes.Abstraction.BaseClass Class4 { get; set; }
+        public Classes.Abstraction.BaseClass Class5 { get; set; }
     }
 }

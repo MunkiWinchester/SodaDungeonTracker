@@ -1,13 +1,13 @@
-﻿using SodaDungeonTracker.Business;
-using System.Windows.Media.Imaging;
-
-namespace SodaDungeonTracker.DataObjects.Classes
+﻿namespace SodaDungeonTracker.DataObjects.Classes
 {
-    public class Shifter : IBaseClass
+    public class Shifter : Abstraction.BaseClass
     {
-        public string Name => GetType().Name;
-        public BitmapImage Image => new BitmapImage(new System.Uri($@"{FileHandler.GetBaseFolder()}\Resources\Icons\{Name}.png"));
-        public IBaseClass Class1 { get; set; }
-        public IBaseClass Class2 { get; set; }
+        public Abstraction.BaseClass Class1 { get; set; }
+        public Abstraction.BaseClass Class2 { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name} ({Class1?.ToString()} / {Class2?.ToString()})";
+        }
     }
 }
