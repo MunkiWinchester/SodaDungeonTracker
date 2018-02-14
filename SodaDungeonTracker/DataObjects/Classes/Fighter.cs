@@ -1,6 +1,8 @@
-﻿namespace SodaDungeonTracker.DataObjects.Classes
+﻿using SodaDungeonTracker.DataObjects.Classes.Abstraction;
+
+namespace SodaDungeonTracker.DataObjects.Classes
 {
-    public class Fighter : Abstraction.BaseClass
+    public class Fighter : BaseClass
     {
     }
 }

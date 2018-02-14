@@ -1,6 +1,8 @@
-﻿namespace SodaDungeonTracker.DataObjects.Classes
+﻿using SodaDungeonTracker.DataObjects.Classes.Abstraction;
+
+namespace SodaDungeonTracker.DataObjects.Classes
 {
-    public class Shopkeeper : Abstraction.BaseClass
+    public class Shopkeeper : BaseClass
     {
     }
 }

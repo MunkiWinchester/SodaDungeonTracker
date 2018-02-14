@@ -1,15 +1,17 @@
-﻿using SodaDungeonTracker.Business;
+﻿using System;
 using System.Collections.ObjectModel;
 using System.Windows.Input;
+using SodaDungeonTracker.Business;
+using SodaDungeonTracker.DataObjects;
 using WpfUtility.Services;
 
 namespace SodaDungeonTracker.ViewModels
 {
     public class MainWindowViewModel : ObservableObject
     {
-        private ObservableCollection<DataObjects.Track> _tracks;
+        private ObservableCollection<Track> _tracks;
 
-        public ObservableCollection<DataObjects.Track> Tracks
+        public ObservableCollection<Track> Tracks
         {
             get => _tracks;
             set => SetField(ref _tracks, value);
@@ -21,12 +23,12 @@ namespace SodaDungeonTracker.ViewModels
 
         private static void StartRun()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         private static void EndRun()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public void Load()
@@ -34,7 +36,7 @@ namespace SodaDungeonTracker.ViewModels
             //FileHandler.LoadCsv();
             var list = FileHandler.LoadPlaylistElements(
                 $@"{FileHandler.GetBaseFolder()}\Resources\SodaDungeon.json");
-            Tracks = new ObservableCollection<DataObjects.Track>(list);
+            Tracks = new ObservableCollection<Track>(list);
         }
     }
 }

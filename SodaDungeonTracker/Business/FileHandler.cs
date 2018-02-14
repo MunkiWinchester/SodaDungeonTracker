@@ -12,7 +12,7 @@ namespace SodaDungeonTracker.Business
         {
             if (!string.IsNullOrWhiteSpace(path))
                 file = CheckPath(path, file);
-            
+
             var json = JsonConvert.SerializeObject(tracks, Formatting.Indented, new JsonSerializerSettings
             {
                 TypeNameHandling = TypeNameHandling.Objects
@@ -27,6 +27,7 @@ namespace SodaDungeonTracker.Business
             using (File.Create(correctedFile))
             {
             }
+
             return correctedFile;
         }
 
@@ -42,13 +43,12 @@ namespace SodaDungeonTracker.Business
         }
 
         /// <summary>
-        /// Gets the path of the base folder
+        ///     Gets the path of the base folder
         /// </summary>
         /// <returns>The path of the base folder</returns>
         public static string GetBaseFolder()
         {
             return Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
         }
-
     }
 }

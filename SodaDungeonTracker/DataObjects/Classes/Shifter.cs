@@ -1,9 +1,11 @@
-﻿namespace SodaDungeonTracker.DataObjects.Classes
+﻿using SodaDungeonTracker.DataObjects.Classes.Abstraction;
+
+namespace SodaDungeonTracker.DataObjects.Classes
 {
-    public class Shifter : Abstraction.BaseClass
+    public class Shifter : BaseClass
     {
-        public Abstraction.BaseClass Class1 { get; set; }
-        public Abstraction.BaseClass Class2 { get; set; }
+        public BaseClass Class1 { get; set; }
+        public BaseClass Class2 { get; set; }
 
         public override string ToString()
         {

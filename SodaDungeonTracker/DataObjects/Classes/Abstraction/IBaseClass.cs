@@ -1,12 +1,12 @@
-﻿using Newtonsoft.Json;
-using System.Windows.Media.Imaging;
+﻿using System.Windows.Media.Imaging;
+using Newtonsoft.Json;
 
 namespace SodaDungeonTracker.DataObjects.Classes.Abstraction
 {
     public interface IBaseClass
     {
         string Name { get; }
-        [JsonIgnore]
-        BitmapImage Image { get; }
+
+        [JsonIgnore] BitmapImage Image { get; }
     }
 }
