@@ -1,0 +1,182 @@
+﻿<controls:MetroWindow x:Class="SodaDungeonTracker.Views.StartEndRunDialog"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+                      Width="400"
+                      Height="400"
+                      BorderBrush="{StaticResource AccentColorBrush}"
+                      BorderThickness="1"
+                      Icon="..\Resources\icon.ico"
+                      IsMaxRestoreButtonEnabled="False"
+                      IsMinButtonEnabled="False"
+                      NonActiveWindowTitleBrush="{Binding ElementName=MetroWindow, Path=WindowTitleBrush}"
+                      ShowMaxRestoreButton="False"
+                      ShowMinButton="False"
+                      ShowSystemMenuOnRightClick="False"
+                      WindowStartupLocation="CenterOwner"
+                      mc:Ignorable="d">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0"
+               Grid.Column="0"
+               Content="Dimension" />
+        <Label Grid.Row="1"
+               Grid.Column="0"
+               Content="Lair of Despair" />
+        <Label Grid.Row="2"
+               Grid.Column="0"
+               Content="Gold" />
+        <Label Grid.Row="3"
+               Grid.Column="0"
+               Content="Essence" />
+        <Label Grid.Row="4"
+               Grid.Column="0"
+               Content="Caps" />
+        <Label Grid.Row="5"
+               Grid.Column="0"
+               Content="Time" />
+        <Label Grid.Row="6"
+               Grid.Column="0"
+               Content="Setup" />
+        <xctk:IntegerUpDown Grid.Row="0"
+                            Grid.Column="1"
+                            Margin="5"
+                            Foreground="{StaticResource IdealForegroundColorBrush}"
+                            FormatString="N0"
+                            Increment="1"
+                            Maximum="1000000"
+                            Minimum="1"
+                            Value="1" />
+        <CheckBox Grid.Row="1"
+                  Grid.Column="1"
+                  HorizontalAlignment="Right"
+                  Foreground="{StaticResource HighlightBrush}" />
+        <xctk:IntegerUpDown Grid.Row="2"
+                            Grid.Column="1"
+                            Margin="5"
+                            Foreground="{StaticResource IdealForegroundColorBrush}"
+                            FormatString="N0"
+                            Increment="1000"
+                            Maximum="1500000000"
+                            Minimum="0"
+                            Value="0" />
+        <xctk:IntegerUpDown Grid.Row="3"
+                            Grid.Column="1"
+                            Margin="5"
+                            Foreground="{StaticResource IdealForegroundColorBrush}"
+                            FormatString="N0"
+                            Increment="1000"
+                            Maximum="1500000000"
+                            Minimum="0"
+                            Value="0" />
+        <xctk:IntegerUpDown Grid.Row="4"
+                            Grid.Column="1"
+                            Margin="5"
+                            Foreground="{StaticResource IdealForegroundColorBrush}"
+                            FormatString="N0"
+                            Increment="1"
+                            Maximum="1500000000"
+                            Minimum="0"
+                            Value="0" />
+        <controls:DateTimePicker Grid.Row="5"
+                                 Grid.Column="1"
+                                 Margin="5"
+                                 Culture="de-DE"
+                                 FirstDayOfWeek="Monday" />
+        <Grid Grid.Row="6" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <ListBox Grid.Row="0"
+                     Grid.RowSpan="2"
+                     Grid.Column="0"
+                     Margin="5" />
+            <Button Grid.Row="0"
+                    Grid.Column="1"
+                    Width="30"
+                    Height="30"
+                    Margin="5"
+                    VerticalAlignment="Bottom"
+                    Style="{DynamicResource MetroCircleButtonStyle}">
+                <Rectangle Width="15"
+                           Height="15"
+                           Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_arrow_left}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Button Grid.Row="1"
+                    Grid.Column="1"
+                    Width="30"
+                    Height="30"
+                    Margin="5"
+                    VerticalAlignment="Top"
+                    Style="{DynamicResource MetroCircleButtonStyle}">
+                <Rectangle Width="15"
+                           Height="15"
+                           Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_arrow_right}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <ListBox Grid.Row="0"
+                     Grid.RowSpan="2"
+                     Grid.Column="2"
+                     Margin="5" />
+        </Grid>
+        <Grid Column="1" Row="7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Button x:Name="ButtonSave"
+                    Grid.Column="1"
+                    Width="75"
+                    Margin="2"
+                    HorizontalAlignment="Right"
+                    Click="ButtonBase_OnClick"
+                    Content="Save"
+                    IsDefault="True"
+                    Style="{StaticResource AccentedSquareButtonStyle}" />
+            <Button Grid.Column="2"
+                    Width="75"
+                    Margin="2"
+                    HorizontalAlignment="Right"
+                    Content="Cancel"
+                    IsCancel="True"
+                    Style="{StaticResource AccentedSquareButtonStyle}" />
+        </Grid>
+    </Grid>
+</controls:MetroWindow>

@@ -3,6 +3,7 @@ using System.Collections.ObjectModel;
 using System.Windows.Input;
 using SodaDungeonTracker.Business;
 using SodaDungeonTracker.DataObjects;
+using SodaDungeonTracker.Views;
 using WpfUtility.Services;
 
 namespace SodaDungeonTracker.ViewModels
@@ -17,18 +18,20 @@ namespace SodaDungeonTracker.ViewModels
             set => SetField(ref _tracks, value);
         }
 
-        public ICommand StartRunCommand => new DelegateCommand(StartRun);
+        public ICommand StartRunCommand => new RelayCommand<MainWindow>(StartRun);
 
-        public ICommand EndRunCommand => new DelegateCommand(EndRun);
+        public ICommand EndRunCommand => new RelayCommand<MainWindow>(EndRun);
 
-        private static void StartRun()
+        private static void StartRun(MainWindow mainWindow)
         {
-            throw new NotImplementedException();
+            var dialog = new StartEndRunDialog {Owner = mainWindow, Title = "Start new Run"};
+            dialog.ShowDialog();
         }
 
-        private static void EndRun()
+        private static void EndRun(MainWindow mainWindow)
         {
-            throw new NotImplementedException();
+            var dialog = new StartEndRunDialog { Owner = mainWindow, Title = "End current Run"};
+            dialog.ShowDialog();
         }
 
         public void Load()
