@@ -3,9 +3,9 @@ using Newtonsoft.Json;
 
 namespace SodaDungeonTracker.DataObjects
 {
-    public class Track
+    public class Record
     {
-        public Track()
+        public Record()
         {
             Setup = new ClassSetup();
         }
@@ -14,19 +14,19 @@ namespace SodaDungeonTracker.DataObjects
         public int Dimension { get; set; } = 1;
         public bool LairOfDespair { get; set; }
         public int CapsStart { get; set; } = 0;
-        public int CapsEnd { get; set; }
+        public int CapsEnd { get; set; } = 0;
         [JsonIgnore] public int CapsDifference => CapsEnd - CapsStart;
         [JsonIgnore] public double CapsPerMinute => CapsDifference / TimeDifference.TotalMinutes;
         public long GoldStart { get; set; } = 0;
-        public long GoldEnd { get; set; }
+        public long GoldEnd { get; set; } = 0;
         [JsonIgnore] public long GoldDifference => GoldEnd - GoldStart + (long) CapsDifference * 1000000000; // Auto converts 1 bil at 1,5 bil
         [JsonIgnore] public double GoldPerMinute => GoldDifference / TimeDifference.TotalMinutes;
         public int EssenceStart { get; set; } = 0;
-        public int EssenceEnd { get; set; }
+        public int EssenceEnd { get; set; } = 0;
         [JsonIgnore] public int EssenceDifference => EssenceEnd - EssenceStart;
         [JsonIgnore] public double EssencePerMinute => EssenceDifference / TimeDifference.TotalMinutes;
         public int LevelStart { get; set; } = 1;
-        public int LevelEnd { get; set; }
+        public int LevelEnd { get; set; } = 1;
         [JsonIgnore] public int LevelDifference => LevelEnd - LevelStart;
         [JsonIgnore] public double LevelPerMinute => LevelDifference / TimeDifference.TotalMinutes;
         public DateTime TimeStart { get; set; } = DateTime.Now;

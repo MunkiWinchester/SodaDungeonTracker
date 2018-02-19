@@ -10,61 +10,44 @@ namespace SodaDungeonTracker.ViewModels
 {
     public class MainWindowViewModel : ObservableObject
     {
-        private ObservableCollection<Track> _tracks;
-        private bool _isRunOpen;
+        private ObservableCollection<Record> _records;
 
-        public ObservableCollection<Track> Tracks
+        public ObservableCollection<Record> Records
         {
-            get => _tracks;
-            set => SetField(ref _tracks, value);
+            get => _records;
+            set => SetField(ref _records, value);
         }
 
-        public bool IsRunOpen
+        private Record _selectedRecord;
+
+        public Record SelectedRecord
         {
-            get => _isRunOpen;
+            get => _selectedRecord;
             set
             {
-                _isRunOpen = value;
                 OnPropertyChanged();
+                _selectedRecord = value;
             }
         }
 
-        public ICommand StartRunCommand => new RelayCommand<MainWindow>(StartRun);
+        public ICommand AddRecordCommand =>
+            new DelegateCommand(() =>
+            {
+                var record = new Record {Id = _records.Max(t => t.Id) + 1};
+                Records.Add(record);
+                SelectedRecord = record;
+            });
 
-        public ICommand EndRunCommand => new RelayCommand<MainWindow>(EndRun);
+        public ICommand EditRecordCommand => new RelayCommand<MainWindow>(EditRecord);
 
-        private void StartRun(MainWindow mainWindow)
+        private void EditRecord(MainWindow mainWindow)
         {
-            var dialog = new StartEndRunDialog {Owner = mainWindow, Title = "Start new Run"};
+            var dialog = new EditRecordDialog {Owner = mainWindow, Record = SelectedRecord};
             if (dialog.ShowDialog() == true)
             {
-
-                var track = dialog.Track;
-
-                if (dialog.AssignedClasses.Count > 0)
-                    track.Setup.Class1 = dialog.AssignedClasses[0];
-                if (dialog.AssignedClasses.Count > 1)
-                    track.Setup.Class2 = dialog.AssignedClasses[1];
-                if (dialog.AssignedClasses.Count > 2)
-                    track.Setup.Class3 = dialog.AssignedClasses[2];
-                if (dialog.AssignedClasses.Count > 3)
-                    track.Setup.Class4 = dialog.AssignedClasses[3];
-                if (dialog.AssignedClasses.Count > 4)
-                    track.Setup.Class5 = dialog.AssignedClasses[4];
-
-                track.Id = _tracks.Max(t => t.Id) + 1;
-
-                Tracks.Add(track);
-                IsRunOpen = true;
+                SelectedRecord = dialog.Record;
+                Records = new ObservableCollection<Record>(_records);
             }
-        }
-
-        private void EndRun(MainWindow mainWindow)
-        {
-            // TODO: Edit THIES
-            //var dialog = new StartEndRunDialog { Owner = mainWindow, Title = "End current Run"};
-            //dialog.ShowDialog();
-            IsRunOpen = false;
         }
 
         public void Load()
@@ -72,7 +55,7 @@ namespace SodaDungeonTracker.ViewModels
             //FileHandler.LoadCsv();
             var list = FileHandler.LoadPlaylistElements(
                 $@"{FileHandler.GetBaseFolder()}\Resources\SodaDungeon.json");
-            Tracks = new ObservableCollection<Track>(list);
+            Records = new ObservableCollection<Record>(list);
         }
     }
 }

@@ -11,12 +11,12 @@ namespace SodaDungeonTracker.Views
 {
     /// <inheritdoc cref="MahApps.Metro.Controls.MetroWindow" />
     /// <summary>
-    /// Interaction logic for StartEndRunDialog.xaml
+    /// Interaction logic for EditRecordDialog.xaml
     /// </summary>
-    public partial class StartEndRunDialog
+    public partial class EditRecordDialog
     {
         public static readonly DependencyProperty AvailableClassesProperty = DependencyProperty.Register(
-            nameof(AvailableClasses), typeof(ObservableCollection<BaseClass>), typeof(StartEndRunDialog), new PropertyMetadata(default(ObservableCollection<BaseClass>)));
+            nameof(AvailableClasses), typeof(ObservableCollection<BaseClass>), typeof(EditRecordDialog), new PropertyMetadata(default(ObservableCollection<BaseClass>)));
 
         public ObservableCollection<BaseClass> AvailableClasses
         {
@@ -25,7 +25,7 @@ namespace SodaDungeonTracker.Views
         }
 
         public static readonly DependencyProperty AssignedClassesProperty = DependencyProperty.Register(
-            nameof(AssignedClasses), typeof(ObservableCollection<BaseClass>), typeof(StartEndRunDialog), new PropertyMetadata(default(ObservableCollection<BaseClass>)));
+            nameof(AssignedClasses), typeof(ObservableCollection<BaseClass>), typeof(EditRecordDialog), new PropertyMetadata(default(ObservableCollection<BaseClass>)));
 
         public ObservableCollection<BaseClass> AssignedClasses
         {
@@ -34,7 +34,7 @@ namespace SodaDungeonTracker.Views
         }
 
         public static readonly DependencyProperty SelectedClassProperty = DependencyProperty.Register(
-            nameof(SelectedClass), typeof(BaseClass), typeof(StartEndRunDialog), new PropertyMetadata(default(BaseClass)));
+            nameof(SelectedClass), typeof(BaseClass), typeof(EditRecordDialog), new PropertyMetadata(default(BaseClass)));
 
         public BaseClass SelectedClass
         {
@@ -42,18 +42,18 @@ namespace SodaDungeonTracker.Views
             set => SetValue(SelectedClassProperty, value);
         }
 
-        public static readonly DependencyProperty TrackProperty = DependencyProperty.Register(
-            nameof(Track), typeof(Track), typeof(StartEndRunDialog), new PropertyMetadata(default(Track)));
+        public static readonly DependencyProperty RecordProperty = DependencyProperty.Register(
+            nameof(Record), typeof(Record), typeof(EditRecordDialog), new PropertyMetadata(default(Record)));
 
-        public Track Track
+        public Record Record
         {
-            get => (Track) GetValue(TrackProperty);
-            set => SetValue(TrackProperty, value);
+            get => (Record) GetValue(RecordProperty);
+            set => SetValue(RecordProperty, value);
         }
 
-        public StartEndRunDialog()
+        public EditRecordDialog()
         {
-            Track = new Track();
+            Record = new Record();
             InitializeComponent();
         }
 
@@ -63,7 +63,7 @@ namespace SodaDungeonTracker.Views
                 DialogResult = true;
         }
 
-        private void StartEndRunDialog_OnLoaded(object sender, RoutedEventArgs e)
+        private void EditRecordDialog_OnLoaded(object sender, RoutedEventArgs e)
         {
             var type = typeof(IBaseClass);
             var classes = AppDomain.CurrentDomain.GetAssemblies()
@@ -80,12 +80,14 @@ namespace SodaDungeonTracker.Views
             {
                 if (button.Equals(_buttonMoveToAssigned))
                 {
-                    if (_listBoxAvailableClasses.SelectedItem is BaseClass item && AssignedClasses.Count < 5 && (!item.IsUnique || item.IsUnique && !AssignedClasses.Any(c => c.IsUnique)))
+                    if (_listBoxAvailableClasses.SelectedItem is BaseClass item && AssignedClasses.Count < 5 &&
+                        (!item.IsUnique || item.IsUnique && !AssignedClasses.Any(c => c.IsUnique)))
                     {
                         AssignedClasses.Add(item);
                     }
                     else
-                        this.ShowMessageAsync("Party limit reached!", "You can only assign five people to your party and only one of them can be unique!");
+                        this.ShowMessageAsync("Party limit reached!",
+                            @"You can only assign five people to your party and only one of them can be unique!");
                 }
                 if (button.Equals(_buttonMoveToAvailable))
                 {

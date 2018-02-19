@@ -108,15 +108,15 @@
     <Compile Include="DataObjects\Classes\Thief.cs" />
     <Compile Include="Business\FileHandler.cs" />
     <Compile Include="DataObjects\ClassSetup.cs" />
-    <Compile Include="DataObjects\Track.cs" />
+    <Compile Include="DataObjects\Record.cs" />
     <Compile Include="Views\BaseClassView.xaml.cs">
       <DependentUpon>BaseClassView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\ShifterSelectionView.xaml.cs">
       <DependentUpon>ShifterSelectionView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\StartEndRunDialog.xaml.cs">
-      <DependentUpon>StartEndRunDialog.xaml</DependentUpon>
+    <Compile Include="Views\EditRecordDialog.xaml.cs">
+      <DependentUpon>EditRecordDialog.xaml</DependentUpon>
     </Compile>
     <Page Include="Resources\CustomAccents\CustomAccent.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -151,7 +151,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\StartEndRunDialog.xaml">
+    <Page Include="Views\EditRecordDialog.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

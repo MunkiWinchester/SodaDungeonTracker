@@ -8,7 +8,7 @@ namespace SodaDungeonTracker.Business
 {
     public static class FileHandler
     {
-        public static void SaveConfig(List<Track> tracks, string file, string path = null)
+        public static void SaveConfig(List<Record> tracks, string file, string path = null)
         {
             if (!string.IsNullOrWhiteSpace(path))
                 file = CheckPath(path, file);
@@ -31,9 +31,9 @@ namespace SodaDungeonTracker.Business
             return correctedFile;
         }
 
-        public static List<Track> LoadPlaylistElements(string path)
+        public static List<Record> LoadPlaylistElements(string path)
         {
-            var tracks = JsonConvert.DeserializeObject<List<Track>>(
+            var tracks = JsonConvert.DeserializeObject<List<Record>>(
                 File.ReadAllText(path), new JsonSerializerSettings
                 {
                     TypeNameHandling = TypeNameHandling.Objects
