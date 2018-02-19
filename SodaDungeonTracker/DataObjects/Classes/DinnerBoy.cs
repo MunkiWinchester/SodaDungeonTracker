@@ -2,5 +2,6 @@
 {
     public class DinnerBoy : SodaJunkie
     {
+        public override bool IsUnique => false;
     }
 }

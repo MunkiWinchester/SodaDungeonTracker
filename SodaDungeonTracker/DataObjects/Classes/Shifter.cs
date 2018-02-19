@@ -6,10 +6,11 @@ namespace SodaDungeonTracker.DataObjects.Classes
     {
         public BaseClass Class1 { get; set; }
         public BaseClass Class2 { get; set; }
+        public override bool IsUnique => false;
 
         public override string ToString()
         {
-            return $"{Name} ({Class1} / {Class2})";
+            return $"{Name} ({Class1} / {Class2}){(IsUnique ? " *" : "")}";
         }
     }
 }

@@ -12,7 +12,8 @@
     "EssenceEnd": 599,
     "LevelStart": 1,
     "LevelEnd": 845,
-    "TimeStartTime": "2018-02-13T15:43:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T15:43:00",
     "TimeEnd": "2018-02-13T17:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -51,7 +52,8 @@
     "EssenceEnd": 935,
     "LevelStart": 1,
     "LevelEnd": 901,
-    "TimeStartTime": "2018-02-13T18:01:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:01:00",
     "TimeEnd": "2018-02-13T19:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -90,7 +92,8 @@
     "EssenceEnd": 1000,
     "LevelStart": 1,
     "LevelEnd": 1123,
-    "TimeStartTime": "2018-02-13T20:03:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:03:00",
     "TimeEnd": "2018-02-13T22:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -129,7 +132,8 @@
     "EssenceEnd": 2900,
     "LevelStart": 1,
     "LevelEnd": 1781,
-    "TimeStartTime": "2018-02-13T09:57:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T09:57:00",
     "TimeEnd": "2018-02-13T12:32:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -168,7 +172,8 @@
     "EssenceEnd": 278,
     "LevelStart": 1,
     "LevelEnd": 1093,
-    "TimeStartTime": "2018-02-13T21:15:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:15:00",
     "TimeEnd": "2018-02-13T22:33:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -207,7 +212,8 @@
     "EssenceEnd": 213,
     "LevelStart": 1,
     "LevelEnd": 789,
-    "TimeStartTime": "2018-02-13T21:59:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:59:00",
     "TimeEnd": "2018-02-13T22:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -246,7 +252,8 @@
     "EssenceEnd": 3800,
     "LevelStart": 1,
     "LevelEnd": 5258,
-    "TimeStartTime": "2018-02-13T18:06:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:06:00",
     "TimeEnd": "2018-02-13T22:37:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -285,7 +292,8 @@
     "EssenceEnd": 6300,
     "LevelStart": 1,
     "LevelEnd": 6147,
-    "TimeStartTime": "2018-02-13T18:03:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:03:00",
     "TimeEnd": "2018-02-13T23:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -324,7 +332,8 @@
     "EssenceEnd": 324,
     "LevelStart": 2001,
     "LevelEnd": 2840,
-    "TimeStartTime": "2018-02-13T17:23:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:23:00",
     "TimeEnd": "2018-02-13T17:47:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -363,7 +372,8 @@
     "EssenceEnd": 296,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "TimeStartTime": "2018-02-13T17:54:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:54:00",
     "TimeEnd": "2018-02-13T18:15:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -402,7 +412,8 @@
     "EssenceEnd": 77,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "TimeStartTime": "2018-02-13T18:23:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:23:00",
     "TimeEnd": "2018-02-13T18:51:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -441,7 +452,8 @@
     "EssenceEnd": 313,
     "LevelStart": 1,
     "LevelEnd": 1499,
-    "TimeStartTime": "2018-02-13T18:56:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:56:00",
     "TimeEnd": "2018-02-13T20:19:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -480,7 +492,8 @@
     "EssenceEnd": 199,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "TimeStartTime": "2018-02-13T20:24:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:24:00",
     "TimeEnd": "2018-02-13T20:45:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -519,7 +532,8 @@
     "EssenceEnd": 493,
     "LevelStart": 591,
     "LevelEnd": 600,
-    "TimeStartTime": "2018-02-13T20:49:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:49:00",
     "TimeEnd": "2018-02-13T20:50:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -558,7 +572,8 @@
     "EssenceEnd": 32,
     "LevelStart": 691,
     "LevelEnd": 699,
-    "TimeStartTime": "2018-02-13T20:55:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:55:00",
     "TimeEnd": "2018-02-13T20:56:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -597,7 +612,8 @@
     "EssenceEnd": 5,
     "LevelStart": 691,
     "LevelEnd": 700,
-    "TimeStartTime": "2018-02-13T20:58:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:58:00",
     "TimeEnd": "2018-02-13T21:00:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -636,7 +652,8 @@
     "EssenceEnd": 96,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "TimeStartTime": "2018-02-13T21:05:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:05:00",
     "TimeEnd": "2018-02-13T21:25:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -675,7 +692,8 @@
     "EssenceEnd": 154,
     "LevelStart": 501,
     "LevelEnd": 699,
-    "TimeStartTime": "2018-02-13T21:33:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:33:00",
     "TimeEnd": "2018-02-13T21:44:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -714,7 +732,8 @@
     "EssenceEnd": 130,
     "LevelStart": 701,
     "LevelEnd": 800,
-    "TimeStartTime": "2018-02-13T21:48:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:48:00",
     "TimeEnd": "2018-02-13T21:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -753,7 +772,8 @@
     "EssenceEnd": 1300,
     "LevelStart": 701,
     "LevelEnd": 1499,
-    "TimeStartTime": "2018-02-13T21:57:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:57:00",
     "TimeEnd": "2018-02-13T22:50:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -792,7 +812,8 @@
     "EssenceEnd": 93,
     "LevelStart": 801,
     "LevelEnd": 900,
-    "TimeStartTime": "2018-02-13T22:56:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T22:56:00",
     "TimeEnd": "2018-02-13T23:00:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -831,7 +852,8 @@
     "EssenceEnd": 223,
     "LevelStart": 801,
     "LevelEnd": 999,
-    "TimeStartTime": "2018-02-13T23:04:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T23:04:00",
     "TimeEnd": "2018-02-13T23:13:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -870,7 +892,8 @@
     "EssenceEnd": 158,
     "LevelStart": 901,
     "LevelEnd": 1000,
-    "TimeStartTime": "2018-02-13T23:18:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T23:18:00",
     "TimeEnd": "2018-02-13T23:22:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -909,7 +932,8 @@
     "EssenceEnd": 606,
     "LevelStart": 1,
     "LevelEnd": 799,
-    "TimeStartTime": "2018-02-13T17:14:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:14:00",
     "TimeEnd": "2018-02-13T17:43:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -948,7 +972,8 @@
     "EssenceEnd": 662,
     "LevelStart": 1,
     "LevelEnd": 648,
-    "TimeStartTime": "2018-02-13T17:47:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:47:00",
     "TimeEnd": "2018-02-13T18:18:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -987,7 +1012,8 @@
     "EssenceEnd": 12700,
     "LevelStart": 1,
     "LevelEnd": 3487,
-    "TimeStartTime": "2018-02-13T19:14:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T19:14:00",
     "TimeEnd": "2018-02-13T22:19:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1026,7 +1052,8 @@
     "EssenceEnd": 58000,
     "LevelStart": 1,
     "LevelEnd": 4679,
-    "TimeStartTime": "2018-02-13T17:38:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:38:00",
     "TimeEnd": "2018-02-13T21:41:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1065,7 +1092,8 @@
     "EssenceEnd": 54400,
     "LevelStart": 1,
     "LevelEnd": 4499,
-    "TimeStartTime": "2018-02-13T20:02:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:02:00",
     "TimeEnd": "2018-02-13T23:53:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1104,7 +1132,8 @@
     "EssenceEnd": 12000,
     "LevelStart": 1,
     "LevelEnd": 2044,
-    "TimeStartTime": "2018-02-13T09:58:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T09:58:00",
     "TimeEnd": "2018-02-13T11:55:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1143,7 +1172,8 @@
     "EssenceEnd": 54900,
     "LevelStart": 1,
     "LevelEnd": 4500,
-    "TimeStartTime": "2018-02-13T17:38:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:38:00",
     "TimeEnd": "2018-02-13T21:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1182,7 +1212,8 @@
     "EssenceEnd": 2700,
     "LevelStart": 1,
     "LevelEnd": 1066,
-    "TimeStartTime": "2018-02-13T22:06:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T22:06:00",
     "TimeEnd": "2018-02-13T22:59:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1221,7 +1252,8 @@
     "EssenceEnd": 12200,
     "LevelStart": 601,
     "LevelEnd": 2364,
-    "TimeStartTime": "2018-02-13T17:59:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:59:00",
     "TimeEnd": "2018-02-13T18:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1262,7 +1294,8 @@
     "EssenceEnd": 30500,
     "LevelStart": 401,
     "LevelEnd": 3599,
-    "TimeStartTime": "2018-02-13T19:08:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T19:08:00",
     "TimeEnd": "2018-02-13T20:51:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1309,7 +1342,8 @@
     "EssenceEnd": 36400,
     "LevelStart": 401,
     "LevelEnd": 3903,
-    "TimeStartTime": "2018-02-13T21:01:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:01:00",
     "TimeEnd": "2018-02-13T22:37:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1356,7 +1390,8 @@
     "EssenceEnd": 96700,
     "LevelStart": 1,
     "LevelEnd": 6387,
-    "TimeStartTime": "2018-02-13T07:00:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T07:00:00",
     "TimeEnd": "2018-02-13T10:27:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1411,7 +1446,8 @@
     "EssenceEnd": 65000,
     "LevelStart": 1,
     "LevelEnd": 5092,
-    "TimeStartTime": "2018-02-13T17:21:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:21:00",
     "TimeEnd": "2018-02-13T19:50:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1458,7 +1494,8 @@
     "EssenceEnd": 89300,
     "LevelStart": 1,
     "LevelEnd": 6002,
-    "TimeStartTime": "2018-02-13T20:02:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T20:02:00",
     "TimeEnd": "2018-02-13T22:42:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1497,7 +1534,8 @@
     "EssenceEnd": 123200,
     "LevelStart": 1,
     "LevelEnd": 7201,
-    "TimeStartTime": "2018-02-13T18:22:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:22:00",
     "TimeEnd": "2018-02-13T21:47:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1536,7 +1574,8 @@
     "EssenceEnd": 16300,
     "LevelStart": 2001,
     "LevelEnd": 3204,
-    "TimeStartTime": "2018-02-13T17:30:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T17:30:00",
     "TimeEnd": "2018-02-13T18:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1575,7 +1614,8 @@
     "EssenceEnd": 21100,
     "LevelStart": 1001,
     "LevelEnd": 3465,
-    "TimeStartTime": "2018-02-13T18:20:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T18:20:00",
     "TimeEnd": "2018-02-13T19:32:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1622,7 +1662,8 @@
     "EssenceEnd": 18300,
     "LevelStart": 1,
     "LevelEnd": 2527,
-    "TimeStartTime": "2018-02-13T19:38:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T19:38:00",
     "TimeEnd": "2018-02-13T21:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1669,7 +1710,8 @@
     "EssenceEnd": 301600,
     "LevelStart": 2001,
     "LevelEnd": 3372,
-    "TimeStartTime": "2018-02-13T21:42:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T21:42:00",
     "TimeEnd": "2018-02-13T22:26:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1716,7 +1758,8 @@
     "EssenceEnd": 762000,
     "LevelStart": 2001,
     "LevelEnd": 8711,
-    "TimeStartTime": "2018-02-13T22:32:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-13T22:32:00",
     "TimeEnd": "2018-02-14T01:33:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1755,7 +1798,8 @@
     "EssenceEnd": 60500,
     "LevelStart": 4001,
     "LevelEnd": 6191,
-    "TimeStartTime": "2018-02-14T10:10:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T10:10:00",
     "TimeEnd": "2018-02-14T11:11:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1794,7 +1838,8 @@
     "EssenceEnd": 92600,
     "LevelStart": 4001,
     "LevelEnd": 7397,
-    "TimeStartTime": "2018-02-14T20:09:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T20:09:00",
     "TimeEnd": "2018-02-14T21:34:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1833,7 +1878,8 @@
     "EssenceEnd": 68500,
     "LevelStart": 3001,
     "LevelEnd": 6016,
-    "TimeStartTime": "2018-02-14T21:39:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T21:39:00",
     "TimeEnd": "2018-02-14T22:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1872,7 +1918,8 @@
     "EssenceEnd": 159700,
     "LevelStart": 4001,
     "LevelEnd": 9109,
-    "TimeStartTime": "2018-02-14T17:48:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T17:48:00",
     "TimeEnd": "2018-02-14T19:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1911,7 +1958,8 @@
     "EssenceEnd": 11600,
     "LevelStart": 6001,
     "LevelEnd": 6208,
-    "TimeStartTime": "2018-02-14T20:05:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T20:05:00",
     "TimeEnd": "2018-02-14T20:11:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1950,7 +1998,8 @@
     "EssenceEnd": 88800,
     "LevelStart": 4001,
     "LevelEnd": 7288,
-    "TimeStartTime": "2018-02-14T20:15:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T20:15:00",
     "TimeEnd": "2018-02-14T21:37:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -1989,7 +2038,8 @@
     "EssenceEnd": 68400,
     "LevelStart": 3700,
     "LevelEnd": 6492,
-    "TimeStartTime": "2018-02-14T21:42:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T21:42:00",
     "TimeEnd": "2018-02-14T22:52:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -2028,7 +2078,8 @@
     "EssenceEnd": 235800,
     "LevelStart": 4001,
     "LevelEnd": 9406,
-    "TimeStartTime": "2018-02-14T19:26:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-14T19:26:00",
     "TimeEnd": "2018-02-14T21:42:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -2067,7 +2118,8 @@
     "EssenceEnd": 174900,
     "LevelStart": 3001,
     "LevelEnd": 9092,
-    "TimeStartTime": "2018-02-15T18:09:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-15T18:09:00",
     "TimeEnd": "2018-02-15T20:43:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
@@ -2106,7 +2158,8 @@
     "EssenceEnd": 318100,
     "LevelStart": 4001,
     "LevelEnd": 10793,
-    "TimeStartTime": "2018-02-15T21:05:00",
+    "IsRunFinished": true,
+    "TimeStart": "2018-02-15T21:05:00",
     "TimeEnd": "2018-02-15T23:59:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",

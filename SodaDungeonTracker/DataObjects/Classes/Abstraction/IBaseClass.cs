@@ -8,5 +8,7 @@ namespace SodaDungeonTracker.DataObjects.Classes.Abstraction
         string Name { get; }
 
         [JsonIgnore] BitmapImage Image { get; }
+
+        bool IsUnique { get; }
     }
 }

@@ -9,11 +9,13 @@ namespace SodaDungeonTracker.DataObjects.Classes.Abstraction
         public string Name => GetType().Name;
 
         public BitmapImage Image =>
-            new BitmapImage(new Uri($@"{FileHandler.GetBaseFolder()}\Resources\Icons\{Name}.png"));
+            new BitmapImage(new Uri($@"{FileHandler.GetBaseFolder()}\Resources\Icons\{GetType().Name}.png"));
+
+        public abstract bool IsUnique { get; }
 
         public override string ToString()
         {
-            return Name;
+            return $"{Name}{(IsUnique ? " *" : "")}";
         }
     }
 }

@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="SodaDungeonTracker.Views.ShifterSelectionView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:Abstraction="clr-namespace:SodaDungeonTracker.DataObjects.Classes.Abstraction"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:SodaDungeonTracker.Views"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d">
+    <Grid>
+        <ListBox x:Name="_listBoxAvailableClasses"
+                 Grid.Column="0"
+                 MaxHeight="100"
+                 ItemsSource="{Binding Classes, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel CanHorizontallyScroll="True"
+                                CanVerticallyScroll="True" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.Resources>
+                <DataTemplate DataType="{x:Type Abstraction:BaseClass}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0"
+                                    Orientation="Horizontal">
+                            <RadioButton x:Name="_radioButtonClass1"
+                                         Checked="ToggleButton_OnChecked"
+                                         GroupName="Class1"
+                                         Tag="{Binding .}" />
+                            <local:BaseClassView BaseClass="{Binding .}" />
+                        </StackPanel>
+                        <StackPanel Grid.Column="1"
+                                    Orientation="Horizontal">
+                            <RadioButton x:Name="_radioButtonClass2"
+                                         Checked="ToggleButton_OnChecked"
+                                         GroupName="Class2"
+                                         Tag="{Binding .}" />
+                            <local:BaseClassView BaseClass="{Binding .}" />
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ItemsControl.Resources>
+        </ListBox>
+    </Grid>
+</UserControl>
