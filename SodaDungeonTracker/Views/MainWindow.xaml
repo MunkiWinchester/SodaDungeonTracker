@@ -22,6 +22,7 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="/Resources/Icons.xaml" />
             </ResourceDictionary.MergedDictionaries>
+            <!-- ReSharper disable once Xaml.StaticResourceNotResolved -->
             <Style BasedOn="{StaticResource MetroDataGridCell}" TargetType="DataGridCell">
                 <Style.Setters>
                     <Setter Property="TextBlock.TextAlignment" Value="Right" />
@@ -98,6 +99,7 @@
                                         Header="Setup"
                                         IsReadOnly="True"
                                         Visibility="Visible">
+                    <!-- ReSharper disable Xaml.BindingWithContextNotResolved -->
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate DataType="DataObjects:ClassSetup">
                             <StackPanel Margin="3" Orientation="Horizontal">
@@ -129,6 +131,7 @@
                             </StackPanel>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
+                    <!-- ReSharper restore Xaml.BindingWithContextNotResolved -->
                 </DataGridTemplateColumn>
                 <DataGridTemplateColumn Width="Auto">
                     <DataGridTemplateColumn.CellTemplate>

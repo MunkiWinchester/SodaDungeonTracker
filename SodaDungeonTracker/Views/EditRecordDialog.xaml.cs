@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows;
@@ -71,7 +72,11 @@ namespace SodaDungeonTracker.Views
                 .Where(p => type.IsAssignableFrom(p) && !p.IsAbstract && !p.IsInterface)
                 .Select(x => (BaseClass) Activator.CreateInstance(x)).OrderBy(s => s.Name).ToList();
             AvailableClasses = new ObservableCollection<BaseClass>(classes);
-            AssignedClasses = new ObservableCollection<BaseClass>();
+            var list = new List<BaseClass>(new[]
+            {
+                Record.Setup.Class1, Record.Setup.Class2, Record.Setup.Class3, Record.Setup.Class4, Record.Setup.Class5
+            });
+            AssignedClasses = new ObservableCollection<BaseClass>(list);
         }
 
         private void ButtonMoveAction_OnClick(object sender, RoutedEventArgs e)

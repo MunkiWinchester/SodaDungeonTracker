@@ -38,16 +38,13 @@ namespace SodaDungeonTracker.Views
                     dep = VisualTreeHelper.GetParent(dep);
                 }
 
-                // if we found the clicked row
+                // if we found the clicked row, get the row
+                // ReSharper disable once IsExpressionAlwaysTrue
                 if (dep is DataGridRow gridRow)
-                {
                     // change the details visibility
                     gridRow.DetailsVisibility = gridRow.DetailsVisibility == Visibility.Collapsed
                         ? Visibility.Visible
                         : Visibility.Collapsed;
-                }
-
-                // get the row
             }
             catch (Exception ex)
             {

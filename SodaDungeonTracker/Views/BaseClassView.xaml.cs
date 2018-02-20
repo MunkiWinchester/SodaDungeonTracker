@@ -57,7 +57,7 @@ namespace SodaDungeonTracker.Views
 
         private void Grid_MouseLeftButtonUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
-            if (BaseClass is Shifter shifter && ShowShifterSelection)
+            if (BaseClass is Shifter && ShowShifterSelection)
             {
                 ShowShifterSelectionInternal = !ShowShifterSelectionInternal;
 

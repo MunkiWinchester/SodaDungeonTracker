@@ -52,7 +52,7 @@
                                         MaxHeight="100"
                                         Shifter="{Binding BaseClass, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Views:BaseClassView}}}"
                                         Classes="{Binding AvailableClasses, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Views:BaseClassView}}}"
-                                        Visibility="{Binding ShowShifterSelectionInternal, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Views:BaseClassView}}, Mode=OneWay, Converter={StaticResource BooleanToVisibilityConverter}}" />
+                                        Visibility="{Binding ShowShifterSelectionInternal, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Views:BaseClassView}}, Converter={StaticResource BooleanToVisibilityConverter}}" />
         </Grid>
     </Grid>
 </UserControl>

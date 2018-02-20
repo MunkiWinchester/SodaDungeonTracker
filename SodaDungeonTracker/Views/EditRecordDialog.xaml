@@ -263,6 +263,7 @@
                 <ColumnDefinition Width="Auto" />
                 <ColumnDefinition Width="Auto" />
             </Grid.ColumnDefinitions>
+            <!-- ReSharper disable once Xaml.StaticResourceNotResolved -->
             <Button x:Name="_buttonSave"
                     Grid.Column="1"
                     Width="75"
@@ -272,6 +273,7 @@
                     Content="Save"
                     IsDefault="True"
                     Style="{StaticResource AccentedSquareButtonStyle}" />
+            <!-- ReSharper disable once Xaml.StaticResourceNotResolved -->
             <Button Grid.Column="2"
                     Width="75"
                     Margin="2"

@@ -1,12 +1,15 @@
-﻿using System.Collections.ObjectModel;
+﻿using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
+using SodaDungeonTracker.DataObjects;
 using SodaDungeonTracker.DataObjects.Classes;
 using SodaDungeonTracker.DataObjects.Classes.Abstraction;
 
 namespace SodaDungeonTracker.Views
 {
-    /// <inheritdoc cref="System.Windows.Controls.UserControl" />
+    /// <inheritdoc cref="UserControl" />
     /// <summary>
     /// Interaction logic for ShifterSelectionView.xaml
     /// </summary>
@@ -18,7 +21,12 @@ namespace SodaDungeonTracker.Views
         public Shifter Shifter
         {
             get => (Shifter) GetValue(ShifterProperty);
-            set => SetValue(ShifterProperty, value);
+            set
+            {
+                SetValue(ShifterProperty, value); 
+                if(value != null)
+                    SetShifterSubclasses();
+            }
         }
 
         public static readonly DependencyProperty ClassesProperty = DependencyProperty.Register(
@@ -49,6 +57,80 @@ namespace SodaDungeonTracker.Views
                         Shifter.Class2 = baseClass;
                 }
             }
+        }
+
+        private void SetShifterSubclasses()
+        {
+            foreach (var radioButton in FindVisualChildren<RadioButton>((Panel)this.Content))
+            {
+                if (radioButton.Name.Contains("Class1"))
+                {
+                    if (radioButton.Tag.Equals(Shifter.Class1))
+                        radioButton.IsChecked = true;
+                }
+                else if (radioButton.Tag.Equals(Shifter.Class2))
+                    radioButton.IsChecked = true;
+                else
+                    radioButton.IsChecked = false;
+            }
+
+            for (var i = 0; i < _listBoxAvailableClasses.Items.Count; i++)
+            {
+                var obj = _listBoxAvailableClasses.ItemContainerGenerator.ContainerFromIndex(i);
+                var radioButton = FindVisualChild<RadioButton>(obj);
+                if (radioButton.Name.Contains("Class1"))
+                {
+                    if (radioButton.Tag.Equals(Shifter.Class1))
+                        radioButton.IsChecked = true;
+                }
+                else if (radioButton.Tag.Equals(Shifter.Class2))
+                    radioButton.IsChecked = true;
+                else
+                    radioButton.IsChecked = false;
+            }
+        }
+
+        public static IEnumerable<T> FindVisualChildren<T>(DependencyObject depObj) where T : DependencyObject
+        {
+            var list = new List<T>();
+            if (depObj != null)
+            {
+                for (var i = 0; i < VisualTreeHelper.GetChildrenCount(depObj); i++)
+                {
+                    var child = VisualTreeHelper.GetChild(depObj, i);
+                    if (child is T variable)
+                    {
+                        list.Add(variable);
+                    }
+
+                    list.AddRange(FindVisualChildren<T>(child));
+                }
+            }
+
+            return list;
+        }
+
+        public static TChildItem FindVisualChild<TChildItem>(DependencyObject obj)
+            where TChildItem : DependencyObject
+        {
+            // Search immediate children
+            for (int i = 0; i < VisualTreeHelper.GetChildrenCount(obj); i++)
+            {
+                DependencyObject child = VisualTreeHelper.GetChild(obj, i);
+
+                if (child is TChildItem)
+                    return (TChildItem)child;
+
+                else
+                {
+                    TChildItem childOfChild = FindVisualChild<TChildItem>(child);
+
+                    if (childOfChild != null)
+                        return childOfChild;
+                }
+            }
+
+            return null;
         }
     }
 }
