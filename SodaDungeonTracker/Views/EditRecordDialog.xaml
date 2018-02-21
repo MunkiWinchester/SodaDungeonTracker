@@ -48,6 +48,32 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
+        <Grid Column="2"
+              Row="8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <!--  ReSharper disable once Xaml.StaticResourceNotResolved  -->
+            <Button x:Name="_buttonSave"
+                    Grid.Column="1"
+                    Width="75"
+                    Margin="2"
+                    HorizontalAlignment="Right"
+                    Click="ButtonBase_OnClick"
+                    Content="Save"
+                    IsDefault="True"
+                    Style="{StaticResource AccentedSquareButtonStyle}" />
+            <!--  ReSharper disable once Xaml.StaticResourceNotResolved  -->
+            <Button Grid.Column="2"
+                    Width="75"
+                    Margin="2"
+                    HorizontalAlignment="Right"
+                    Content="Cancel"
+                    IsCancel="True"
+                    Style="{StaticResource AccentedSquareButtonStyle}" />
+        </Grid>
         <Label Grid.Row="0"
                Grid.Column="0"
                Content="Dimension:" />
@@ -197,12 +223,14 @@
                      ItemsSource="{Binding AssignedClasses, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Controls:MetroWindow}}}">
                 <ItemsControl.ItemsPanel>
                     <ItemsPanelTemplate>
-                        <StackPanel CanHorizontallyScroll="True" CanVerticallyScroll="True" />
+                        <StackPanel CanHorizontallyScroll="True"
+                                    CanVerticallyScroll="True" />
                     </ItemsPanelTemplate>
                 </ItemsControl.ItemsPanel>
                 <ItemsControl.Resources>
                     <DataTemplate DataType="{x:Type Abstraction:BaseClass}">
-                        <Views:BaseClassView BaseClass="{Binding .}" ShowShifterSelection="True" />
+                        <Views:BaseClassView BaseClass="{Binding .}"
+                                             ShowShifterSelection="True" />
                     </DataTemplate>
                 </ItemsControl.Resources>
             </ListBox>
@@ -219,7 +247,8 @@
                            Height="15"
                            Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
                     <Rectangle.OpacityMask>
-                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_arrow_left}" />
+                        <VisualBrush Stretch="Fill"
+                                     Visual="{DynamicResource appbar_arrow_left}" />
                     </Rectangle.OpacityMask>
                 </Rectangle>
             </Button>
@@ -230,12 +259,14 @@
                      ItemsSource="{Binding AvailableClasses, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Controls:MetroWindow}}}">
                 <ItemsControl.ItemsPanel>
                     <ItemsPanelTemplate>
-                        <StackPanel CanHorizontallyScroll="True" CanVerticallyScroll="True" />
+                        <StackPanel CanHorizontallyScroll="True"
+                                    CanVerticallyScroll="True" />
                     </ItemsPanelTemplate>
                 </ItemsControl.ItemsPanel>
                 <ItemsControl.Resources>
                     <DataTemplate DataType="{x:Type Abstraction:BaseClass}">
-                        <Views:BaseClassView BaseClass="{Binding .}" ShowShifterSelection="False" />
+                        <Views:BaseClassView BaseClass="{Binding .}"
+                                             ShowShifterSelection="False" />
                     </DataTemplate>
                 </ItemsControl.Resources>
             </ListBox>
@@ -252,35 +283,11 @@
                            Height="15"
                            Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
                     <Rectangle.OpacityMask>
-                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_arrow_right}" />
+                        <VisualBrush Stretch="Fill"
+                                     Visual="{DynamicResource appbar_arrow_right}" />
                     </Rectangle.OpacityMask>
                 </Rectangle>
             </Button>
-        </Grid>
-        <Grid Column="2" Row="8">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition />
-                <ColumnDefinition Width="Auto" />
-                <ColumnDefinition Width="Auto" />
-            </Grid.ColumnDefinitions>
-            <!-- ReSharper disable once Xaml.StaticResourceNotResolved -->
-            <Button x:Name="_buttonSave"
-                    Grid.Column="1"
-                    Width="75"
-                    Margin="2"
-                    HorizontalAlignment="Right"
-                    Click="ButtonBase_OnClick"
-                    Content="Save"
-                    IsDefault="True"
-                    Style="{StaticResource AccentedSquareButtonStyle}" />
-            <!-- ReSharper disable once Xaml.StaticResourceNotResolved -->
-            <Button Grid.Column="2"
-                    Width="75"
-                    Margin="2"
-                    HorizontalAlignment="Right"
-                    Content="Cancel"
-                    IsCancel="True"
-                    Style="{StaticResource AccentedSquareButtonStyle}" />
         </Grid>
     </Grid>
 </Controls:MetroWindow>

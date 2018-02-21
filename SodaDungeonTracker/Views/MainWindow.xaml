@@ -6,13 +6,15 @@
                       xmlns:DataObjects="clr-namespace:SodaDungeonTracker.DataObjects"
                       xmlns:Mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                       xmlns:Viewmodels="clr-namespace:SodaDungeonTracker.ViewModels"
+                      xmlns:Views="clr-namespace:SodaDungeonTracker.Views"
                       x:Name="_metroWindow"
                       Title="Soda Dungeon Tracker"
                       Width="900"
                       Height="500"
                       Mc:Ignorable="D"
+                      xml:lang="de-DE"
                       BorderBrush="{StaticResource AccentColorBrush}"
-                      BorderThickness="2"
+                      BorderThickness="4"
                       Icon="..\Resources\icon.ico"
                       Loaded="MetroWindow_Loaded"
                       NonActiveWindowTitleBrush="{Binding ElementName=_metroWindow, Path=WindowTitleBrush}"
@@ -22,18 +24,19 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="/Resources/Icons.xaml" />
             </ResourceDictionary.MergedDictionaries>
-            <!-- ReSharper disable once Xaml.StaticResourceNotResolved -->
-            <Style BasedOn="{StaticResource MetroDataGridCell}" TargetType="DataGridCell">
+            <!--  ReSharper disable once Xaml.StaticResourceNotResolved  -->
+            <Style BasedOn="{StaticResource MetroDataGridCell}"
+                   TargetType="DataGridCell">
                 <Style.Setters>
                     <Setter Property="TextBlock.TextAlignment" Value="Right" />
                     <Setter Property="VerticalAlignment" Value="Center" />
                 </Style.Setters>
             </Style>
-            <DataTemplate x:Key="RecordDetails" DataType="DataObjects:Record">
-                <Border Padding="10" BorderThickness="0">
-                    <Grid>
-                        <Label Content="{Binding CapsEnd}" />
-                    </Grid>
+            <DataTemplate x:Key="RecordDetails"
+                          DataType="DataObjects:Record">
+                <Border Padding="10,0,10,10"
+                        BorderThickness="0">
+                    <Views:RecordDetailView Record="{Binding .}" />
                 </Border>
             </DataTemplate>
         </ResourceDictionary>
@@ -53,13 +56,13 @@
                   EnableColumnVirtualization="True"
                   IsReadOnly="True"
                   ItemsSource="{Binding Records}"
-                  SelectedItem="{Binding SelectedRecord}"
                   RowDetailsTemplate="{StaticResource RecordDetails}"
-                  RowDetailsVisibilityMode="Collapsed">
+                  RowDetailsVisibilityMode="Collapsed"
+                  SelectedItem="{Binding SelectedRecord}">
             <DataGrid.Columns>
                 <DataGridTextColumn Width="Auto"
                                     Binding="{Binding Id, Mode=OneWay}"
-                                    Header="Id" />
+                                    Header="Run #" />
                 <DataGridTextColumn Width="Auto"
                                     Binding="{Binding Dimension, Mode=OneWay}"
                                     Header="Dim." />
@@ -73,11 +76,11 @@
                                     Binding="{Binding CapsPerMinute, Mode=OneWay, StringFormat={}{0:N3}}"
                                     Header="Caps / min" />
                 <DataGridTextColumn Width="Auto"
-                                    Binding="{Binding GoldDifference, Mode=OneWay, StringFormat={}{0:N0}}"
-                                    Header="Gold gained" />
+                                    Binding="{Binding GoldDifferenceWithCaps, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="Gold** gained" />
                 <DataGridTextColumn Width="Auto"
-                                    Binding="{Binding GoldPerMinute, Mode=OneWay, StringFormat={}{0:N0}}"
-                                    Header="Gold / min" />
+                                    Binding="{Binding GoldWithCapsPerMinute, Mode=OneWay, StringFormat={}{0:N0}}"
+                                    Header="Gold** / min" />
                 <DataGridTextColumn Width="Auto"
                                     Binding="{Binding EssenceDifference, Mode=OneWay, StringFormat={}{0:N0}}"
                                     Header="Essence gained" />
@@ -99,10 +102,11 @@
                                         Header="Setup"
                                         IsReadOnly="True"
                                         Visibility="Visible">
-                    <!-- ReSharper disable Xaml.BindingWithContextNotResolved -->
+                    <!--  ReSharper disable Xaml.BindingWithContextNotResolved  -->
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate DataType="DataObjects:ClassSetup">
-                            <StackPanel Margin="3" Orientation="Horizontal">
+                            <StackPanel Margin="3"
+                                        Orientation="Horizontal">
                                 <Image Width="25"
                                        Height="25"
                                        Margin="2"
@@ -131,7 +135,7 @@
                             </StackPanel>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
-                    <!-- ReSharper restore Xaml.BindingWithContextNotResolved -->
+                    <!--  ReSharper restore Xaml.BindingWithContextNotResolved  -->
                 </DataGridTemplateColumn>
                 <DataGridTemplateColumn Width="Auto">
                     <DataGridTemplateColumn.CellTemplate>
@@ -147,7 +151,8 @@
                                            Height="17"
                                            Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
                                     <Rectangle.OpacityMask>
-                                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_book_open_information}" />
+                                        <VisualBrush Stretch="Fill"
+                                                     Visual="{DynamicResource appbar_book_open_information}" />
                                     </Rectangle.OpacityMask>
                                 </Rectangle>
                             </Button>
@@ -169,7 +174,8 @@
                                            Height="17"
                                            Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
                                     <Rectangle.OpacityMask>
-                                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_edit}" />
+                                        <VisualBrush Stretch="Fill"
+                                                     Visual="{DynamicResource appbar_edit}" />
                                     </Rectangle.OpacityMask>
                                 </Rectangle>
                             </Button>
@@ -178,10 +184,12 @@
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <Separator Grid.Row="1"
-                   BorderBrush="{StaticResource WindowTitleColorBrush}"
-                   BorderThickness="4" />
-        <Grid Grid.Row="2" Margin="2,0,10,2">
+        <Border Grid.Row="1"
+                Margin="0,2,0,2"
+                BorderBrush="{StaticResource WindowTitleColorBrush}"
+                BorderThickness="2" />
+        <Grid Grid.Row="2"
+              Margin="2,0,10,2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto" />
                 <ColumnDefinition Width="*" />
@@ -190,7 +198,7 @@
             <Button Grid.Column="0"
                     Width="25"
                     Height="25"
-                    Margin="2"
+                    Margin="4,2,2,4"
                     HorizontalAlignment="Left"
                     Command="{Binding AddRecordCommand}"
                     ToolTip="Add a new record">
@@ -198,15 +206,19 @@
                            Height="12"
                            Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
                     <Rectangle.OpacityMask>
-                        <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_add}" />
+                        <VisualBrush Stretch="Fill"
+                                     Visual="{DynamicResource appbar_add}" />
                     </Rectangle.OpacityMask>
                 </Rectangle>
             </Button>
+            <Label Grid.Column="1" HorizontalAlignment="Center" Content="* Class is unique    ** combined with Caps (1 Cap = 1.000.000.000 Gold"/>
             <StackPanel Grid.Column="2"
                         HorizontalAlignment="Left"
                         Orientation="Horizontal">
-                <Label Margin="0" Content="Total:" />
-                <Label Margin="0" Content="{Binding Records.Count}" />
+                <Label Margin="0"
+                       Content="Total:" />
+                <Label Margin="0"
+                       Content="{Binding Records.Count}" />
             </StackPanel>
         </Grid>
     </Grid>

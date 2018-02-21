@@ -59,8 +59,6 @@ namespace SodaDungeonTracker.Views
         {
             if (BaseClass is Shifter && ShowShifterSelection)
             {
-                ShowShifterSelectionInternal = !ShowShifterSelectionInternal;
-
                 if (!AvailableClasses.Any())
                 {
                     var type = typeof(IBaseClass);
@@ -70,6 +68,8 @@ namespace SodaDungeonTracker.Views
                         .Select(x => (BaseClass) Activator.CreateInstance(x)).OrderBy(s => s.Name).ToList();
                     AvailableClasses = new ObservableCollection<BaseClass>(classes);
                 }
+
+                ShowShifterSelectionInternal = !ShowShifterSelectionInternal;
             }
         }
     }

@@ -19,8 +19,10 @@ namespace SodaDungeonTracker.DataObjects
         [JsonIgnore] public double CapsPerMinute => CapsDifference / TimeDifference.TotalMinutes;
         public long GoldStart { get; set; } = 0;
         public long GoldEnd { get; set; } = 0;
-        [JsonIgnore] public long GoldDifference => GoldEnd - GoldStart + (long) CapsDifference * 1000000000; // Auto converts 1 bil at 1,5 bil
+        [JsonIgnore] public long GoldDifference => GoldEnd - GoldStart;
+        [JsonIgnore] public long GoldDifferenceWithCaps => GoldEnd - GoldStart + (long) CapsDifference * 1000000000; // Auto converts 1 bil at 1,5 bil
         [JsonIgnore] public double GoldPerMinute => GoldDifference / TimeDifference.TotalMinutes;
+        [JsonIgnore] public double GoldWithCapsPerMinute => GoldDifferenceWithCaps / TimeDifference.TotalMinutes;
         public int EssenceStart { get; set; } = 0;
         public int EssenceEnd { get; set; } = 0;
         [JsonIgnore] public int EssenceDifference => EssenceEnd - EssenceStart;
@@ -33,6 +35,6 @@ namespace SodaDungeonTracker.DataObjects
         public DateTime TimeEnd { get; set; } = DateTime.Now;
         [JsonIgnore] public TimeSpan TimeDifference => TimeEnd.Subtract(TimeStart);
         public ClassSetup Setup { get; set; }
-        public bool IsRunFinished { get; set; }
+        public bool WasRunAborted { get; set; }
     }
 }

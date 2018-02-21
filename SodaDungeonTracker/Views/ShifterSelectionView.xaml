@@ -4,8 +4,8 @@
              xmlns:Abstraction="clr-namespace:SodaDungeonTracker.DataObjects.Classes.Abstraction"
              xmlns:D="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:Local="clr-namespace:SodaDungeonTracker.Views"
-             x:Name="_userControlShifterSelectionView"
              xmlns:Mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             x:Name="_userControlShifterSelectionView"
              Mc:Ignorable="D">
     <Grid>
         <ListBox x:Name="_listBoxAvailableClasses"

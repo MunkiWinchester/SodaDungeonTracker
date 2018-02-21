@@ -112,6 +112,9 @@
     <Compile Include="Views\BaseClassView.xaml.cs">
       <DependentUpon>BaseClassView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\RecordDetailView.xaml.cs">
+      <DependentUpon>RecordDetailView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\ShifterSelectionView.xaml.cs">
       <DependentUpon>ShifterSelectionView.xaml</DependentUpon>
     </Compile>
@@ -146,6 +149,10 @@
     <Page Include="Resources\IconsNonShared.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\RecordDetailView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\ShifterSelectionView.xaml">
       <SubType>Designer</SubType>
