@@ -41,6 +41,20 @@
             </DataTemplate>
         </ResourceDictionary>
     </Window.Resources>
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button Command="{Binding SettingsClickedCommand}"
+                    CommandParameter="{Binding ElementName=_metroWindow}">
+                <Rectangle Width="20" Height="20"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button},
+                                              Path=Foreground}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_settings}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
     <Controls:MetroWindow.DataContext>
         <Viewmodels:MainWindowViewModel />
     </Controls:MetroWindow.DataContext>

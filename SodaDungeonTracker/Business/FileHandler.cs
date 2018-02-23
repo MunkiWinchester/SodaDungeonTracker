@@ -8,37 +8,22 @@ namespace SodaDungeonTracker.Business
 {
     public static class FileHandler
     {
-        public static void SaveConfig(List<Record> tracks, string file, string path = null)
+        public static void SaveRecordsAsJson(List<Record> records, string file)
         {
-            if (!string.IsNullOrWhiteSpace(path))
-                file = CheckPath(path, file);
-
-            var json = JsonConvert.SerializeObject(tracks, Formatting.Indented, new JsonSerializerSettings
+            var json = JsonConvert.SerializeObject(records, Formatting.Indented, new JsonSerializerSettings
             {
                 TypeNameHandling = TypeNameHandling.Objects
             });
             File.WriteAllText(file, json);
         }
 
-        private static string CheckPath(string path, string file)
-        {
-            var correctedPath = path.EndsWith("\\") ? path : path + "\\";
-            var correctedFile = file.EndsWith(".json") ? correctedPath + file : correctedPath + file + ".json";
-            using (File.Create(correctedFile))
-            {
-            }
-
-            return correctedFile;
-        }
-
-        public static List<Record> LoadPlaylistElements(string path)
+        public static List<Record> LoadRecordsFromJson(string path)
         {
             var tracks = JsonConvert.DeserializeObject<List<Record>>(
                 File.ReadAllText(path), new JsonSerializerSettings
                 {
                     TypeNameHandling = TypeNameHandling.Objects
                 });
-            //SaveConfig(tracks, "SodaDungeon.json", $@"{GetBaseFolder()}\Resources");
             return tracks;
         }
 

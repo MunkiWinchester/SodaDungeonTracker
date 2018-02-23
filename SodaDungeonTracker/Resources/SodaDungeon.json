@@ -12,32 +12,37 @@
     "EssenceEnd": 599,
     "LevelStart": 1,
     "LevelEnd": 845,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T15:43:00",
     "TimeEnd": "2018-02-13T17:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -52,32 +57,37 @@
     "EssenceEnd": 935,
     "LevelStart": 1,
     "LevelEnd": 901,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:01:00",
     "TimeEnd": "2018-02-13T19:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -92,32 +102,37 @@
     "EssenceEnd": 1000,
     "LevelStart": 1,
     "LevelEnd": 1123,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:03:00",
     "TimeEnd": "2018-02-13T22:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -132,32 +147,37 @@
     "EssenceEnd": 2900,
     "LevelStart": 1,
     "LevelEnd": 1781,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T09:57:00",
     "TimeEnd": "2018-02-13T12:32:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -172,32 +192,37 @@
     "EssenceEnd": 278,
     "LevelStart": 1,
     "LevelEnd": 1093,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:15:00",
     "TimeEnd": "2018-02-13T22:33:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -212,32 +237,37 @@
     "EssenceEnd": 213,
     "LevelStart": 1,
     "LevelEnd": 789,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:59:00",
     "TimeEnd": "2018-02-13T22:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -252,32 +282,37 @@
     "EssenceEnd": 3800,
     "LevelStart": 1,
     "LevelEnd": 5258,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:06:00",
     "TimeEnd": "2018-02-13T22:37:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -292,32 +327,37 @@
     "EssenceEnd": 6300,
     "LevelStart": 1,
     "LevelEnd": 6147,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:03:00",
     "TimeEnd": "2018-02-13T23:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -332,32 +372,37 @@
     "EssenceEnd": 324,
     "LevelStart": 2001,
     "LevelEnd": 2840,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:23:00",
     "TimeEnd": "2018-02-13T17:47:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -372,32 +417,37 @@
     "EssenceEnd": 296,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:54:00",
     "TimeEnd": "2018-02-13T18:15:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -412,32 +462,37 @@
     "EssenceEnd": 77,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:23:00",
     "TimeEnd": "2018-02-13T18:51:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -452,32 +507,37 @@
     "EssenceEnd": 313,
     "LevelStart": 1,
     "LevelEnd": 1499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:56:00",
     "TimeEnd": "2018-02-13T20:19:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -492,32 +552,37 @@
     "EssenceEnd": 199,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:24:00",
     "TimeEnd": "2018-02-13T20:45:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -532,32 +597,37 @@
     "EssenceEnd": 493,
     "LevelStart": 591,
     "LevelEnd": 600,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:49:00",
     "TimeEnd": "2018-02-13T20:50:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -572,32 +642,37 @@
     "EssenceEnd": 32,
     "LevelStart": 691,
     "LevelEnd": 699,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:55:00",
     "TimeEnd": "2018-02-13T20:56:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -612,32 +687,37 @@
     "EssenceEnd": 5,
     "LevelStart": 691,
     "LevelEnd": 700,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:58:00",
     "TimeEnd": "2018-02-13T21:00:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Fighter"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Fighter"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Fighter"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Fighter"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Fighter, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Fighter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -652,32 +732,37 @@
     "EssenceEnd": 96,
     "LevelStart": 1,
     "LevelEnd": 499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:05:00",
     "TimeEnd": "2018-02-13T21:25:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -692,32 +777,37 @@
     "EssenceEnd": 154,
     "LevelStart": 501,
     "LevelEnd": 699,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:33:00",
     "TimeEnd": "2018-02-13T21:44:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -732,32 +822,37 @@
     "EssenceEnd": 130,
     "LevelStart": 701,
     "LevelEnd": 800,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:48:00",
     "TimeEnd": "2018-02-13T21:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -772,32 +867,37 @@
     "EssenceEnd": 1300,
     "LevelStart": 701,
     "LevelEnd": 1499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:57:00",
     "TimeEnd": "2018-02-13T22:50:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -812,32 +912,37 @@
     "EssenceEnd": 93,
     "LevelStart": 801,
     "LevelEnd": 900,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T22:56:00",
     "TimeEnd": "2018-02-13T23:00:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -852,32 +957,37 @@
     "EssenceEnd": 223,
     "LevelStart": 801,
     "LevelEnd": 999,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T23:04:00",
     "TimeEnd": "2018-02-13T23:13:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -892,32 +1002,37 @@
     "EssenceEnd": 158,
     "LevelStart": 901,
     "LevelEnd": 1000,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T23:18:00",
     "TimeEnd": "2018-02-13T23:22:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -932,32 +1047,37 @@
     "EssenceEnd": 606,
     "LevelStart": 1,
     "LevelEnd": 799,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:14:00",
     "TimeEnd": "2018-02-13T17:43:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -972,32 +1092,37 @@
     "EssenceEnd": 662,
     "LevelStart": 1,
     "LevelEnd": 648,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:47:00",
     "TimeEnd": "2018-02-13T18:18:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DinnerBoy, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DinnerBoy"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1012,32 +1137,37 @@
     "EssenceEnd": 12700,
     "LevelStart": 1,
     "LevelEnd": 3487,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T19:14:00",
     "TimeEnd": "2018-02-13T22:19:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1052,32 +1182,37 @@
     "EssenceEnd": 58000,
     "LevelStart": 1,
     "LevelEnd": 4679,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:38:00",
     "TimeEnd": "2018-02-13T21:41:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1092,32 +1227,37 @@
     "EssenceEnd": 54400,
     "LevelStart": 1,
     "LevelEnd": 4499,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:02:00",
     "TimeEnd": "2018-02-13T23:53:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1132,32 +1272,37 @@
     "EssenceEnd": 12000,
     "LevelStart": 1,
     "LevelEnd": 2044,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T09:58:00",
     "TimeEnd": "2018-02-13T11:55:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Healer, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Healer"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1172,32 +1317,37 @@
     "EssenceEnd": 54900,
     "LevelStart": 1,
     "LevelEnd": 4500,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:38:00",
     "TimeEnd": "2018-02-13T21:54:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1212,32 +1362,37 @@
     "EssenceEnd": 2700,
     "LevelStart": 1,
     "LevelEnd": 1066,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T22:06:00",
     "TimeEnd": "2018-02-13T22:59:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Ragezerker, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Ragezerker"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Conscript, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Conscript"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1252,34 +1407,39 @@
     "EssenceEnd": 12200,
     "LevelStart": 601,
     "LevelEnd": 2364,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:59:00",
     "TimeEnd": "2018-02-13T18:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": null,
         "Class2": null,
+        "IsUnique": false,
         "Name": "Shifter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1294,40 +1454,47 @@
     "EssenceEnd": 30500,
     "LevelStart": 401,
     "LevelEnd": 3599,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T19:08:00",
     "TimeEnd": "2018-02-13T20:51:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1342,40 +1509,47 @@
     "EssenceEnd": 36400,
     "LevelStart": 401,
     "LevelEnd": 3903,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:01:00",
     "TimeEnd": "2018-02-13T22:37:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1390,48 +1564,57 @@
     "EssenceEnd": 96700,
     "LevelStart": 1,
     "LevelEnd": 6387,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T07:00:00",
     "TimeEnd": "2018-02-13T10:27:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1446,40 +1629,47 @@
     "EssenceEnd": 65000,
     "LevelStart": 1,
     "LevelEnd": 5092,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:21:00",
     "TimeEnd": "2018-02-13T19:50:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1494,32 +1684,37 @@
     "EssenceEnd": 89300,
     "LevelStart": 1,
     "LevelEnd": 6002,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T20:02:00",
     "TimeEnd": "2018-02-13T22:42:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1534,32 +1729,37 @@
     "EssenceEnd": 123200,
     "LevelStart": 1,
     "LevelEnd": 7201,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:22:00",
     "TimeEnd": "2018-02-13T21:47:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1574,32 +1774,37 @@
     "EssenceEnd": 16300,
     "LevelStart": 2001,
     "LevelEnd": 3204,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T17:30:00",
     "TimeEnd": "2018-02-13T18:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1614,40 +1819,47 @@
     "EssenceEnd": 21100,
     "LevelStart": 1001,
     "LevelEnd": 3465,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T18:20:00",
     "TimeEnd": "2018-02-13T19:32:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Merchant, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Merchant"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1662,40 +1874,47 @@
     "EssenceEnd": 18300,
     "LevelStart": 1,
     "LevelEnd": 2527,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T19:38:00",
     "TimeEnd": "2018-02-13T21:09:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Merchant, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Merchant"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1710,40 +1929,47 @@
     "EssenceEnd": 301600,
     "LevelStart": 2001,
     "LevelEnd": 3372,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T21:42:00",
     "TimeEnd": "2018-02-13T22:26:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
         "Class1": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Knight"
         },
         "Class2": {
           "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
           "Name": "Thief"
         },
+        "IsUnique": false,
         "Name": "Shifter"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1758,32 +1984,37 @@
     "EssenceEnd": 762000,
     "LevelStart": 2001,
     "LevelEnd": 8711,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-13T22:32:00",
     "TimeEnd": "2018-02-14T01:33:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1798,32 +2029,37 @@
     "EssenceEnd": 60500,
     "LevelStart": 4001,
     "LevelEnd": 6191,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T10:10:00",
     "TimeEnd": "2018-02-14T11:11:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1838,32 +2074,37 @@
     "EssenceEnd": 92600,
     "LevelStart": 4001,
     "LevelEnd": 7397,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T20:09:00",
     "TimeEnd": "2018-02-14T21:34:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1878,32 +2119,37 @@
     "EssenceEnd": 68500,
     "LevelStart": 3001,
     "LevelEnd": 6016,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T21:39:00",
     "TimeEnd": "2018-02-14T22:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1918,32 +2164,37 @@
     "EssenceEnd": 159700,
     "LevelStart": 4001,
     "LevelEnd": 9109,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T17:48:00",
     "TimeEnd": "2018-02-14T19:58:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1958,32 +2209,37 @@
     "EssenceEnd": 11600,
     "LevelStart": 6001,
     "LevelEnd": 6208,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T20:05:00",
     "TimeEnd": "2018-02-14T20:11:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -1998,32 +2254,37 @@
     "EssenceEnd": 88800,
     "LevelStart": 4001,
     "LevelEnd": 7288,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T20:15:00",
     "TimeEnd": "2018-02-14T21:37:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -2038,32 +2299,37 @@
     "EssenceEnd": 68400,
     "LevelStart": 3700,
     "LevelEnd": 6492,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T21:42:00",
     "TimeEnd": "2018-02-14T22:52:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -2078,32 +2344,37 @@
     "EssenceEnd": 235800,
     "LevelStart": 4001,
     "LevelEnd": 9406,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-14T19:26:00",
     "TimeEnd": "2018-02-14T21:42:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
   {
     "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
@@ -2118,471 +2389,536 @@
     "EssenceEnd": 174900,
     "LevelStart": 3001,
     "LevelEnd": 9092,
-    "WasRunAborted": false,
     "TimeStart": "2018-02-15T18:09:00",
     "TimeEnd": "2018-02-15T20:43:00",
     "Setup": {
       "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
       "Class1": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class2": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "DarkMage"
       },
       "Class3": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
         "Name": "Wizard"
       },
       "Class4": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Knight"
       },
       "Class5": {
         "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
         "Name": "Thief"
       }
-    }
+    },
+    "WasRunAborted": false
   },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 53,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 2,
-        "CapsEnd": 38,
-        "GoldStart": 1900,
-        "GoldEnd": 881995000,
-        "EssenceStart": 74400,
-        "EssenceEnd": 318100,
-        "LevelStart": 4001,
-        "LevelEnd": 10793,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-15T21:05:00",
-        "TimeEnd": "2018-02-15T23:59:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                "Name": "Knight"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                "Name": "Thief"
-            }
-        }
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 53,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 2,
+    "CapsEnd": 38,
+    "GoldStart": 1900,
+    "GoldEnd": 881995000,
+    "EssenceStart": 74400,
+    "EssenceEnd": 318100,
+    "LevelStart": 4001,
+    "LevelEnd": 10793,
+    "TimeStart": "2018-02-15T21:05:00",
+    "TimeEnd": "2018-02-15T23:59:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Knight"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Thief"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 54,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 2,
-        "CapsEnd": 41,
-        "GoldStart": 3400,
-        "GoldEnd": 838795000,
-        "EssenceStart": 3700,
-        "EssenceEnd": 423200,
-        "LevelStart": 1,
-        "LevelEnd": 9741,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-16T09:32:00",
-        "TimeEnd": "2018-02-16T13:50:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                "Name": "Knight"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                "Name": "Thief"
-            }
-        }
+    "WasRunAborted": false
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 54,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 2,
+    "CapsEnd": 41,
+    "GoldStart": 3400,
+    "GoldEnd": 838795000,
+    "EssenceStart": 3700,
+    "EssenceEnd": 423200,
+    "LevelStart": 1,
+    "LevelEnd": 9741,
+    "TimeStart": "2018-02-16T09:32:00",
+    "TimeEnd": "2018-02-16T13:50:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Knight"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Thief"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 55,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 4,
-        "CapsEnd": 35,
-        "GoldStart": 671,
-        "GoldEnd": 1057210000,
-        "EssenceStart": 1300,
-        "EssenceEnd": 180400,
-        "LevelStart": 4001,
-        "LevelEnd": 9288,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-16T13:58:00",
-        "TimeEnd": "2018-02-16T16:16:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                "Name": "Knight"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                "Name": "Thief"
-            }
-        }
+    "WasRunAborted": false
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 55,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 4,
+    "CapsEnd": 35,
+    "GoldStart": 671,
+    "GoldEnd": 1057210000,
+    "EssenceStart": 1300,
+    "EssenceEnd": 180400,
+    "LevelStart": 4001,
+    "LevelEnd": 9288,
+    "TimeStart": "2018-02-16T13:58:00",
+    "TimeEnd": "2018-02-16T16:16:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Knight"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Thief"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 56,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 5,
-        "CapsEnd": 16,
-        "GoldStart": 1500,
-        "GoldEnd": 998700000,
-        "EssenceStart": 21900,
-        "EssenceEnd": 96400,
-        "LevelStart": 4001,
-        "LevelEnd": 5984,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-16T22:28:00",
-        "TimeEnd": "2018-02-16T23:24:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                "Name": "Knight"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                "Name": "Thief"
-            }
-        }
+    "WasRunAborted": false
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 56,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 5,
+    "CapsEnd": 16,
+    "GoldStart": 1500,
+    "GoldEnd": 998700000,
+    "EssenceStart": 21900,
+    "EssenceEnd": 96400,
+    "LevelStart": 4001,
+    "LevelEnd": 5984,
+    "TimeStart": "2018-02-16T22:28:00",
+    "TimeEnd": "2018-02-16T23:24:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Knight"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Thief"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 57,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 0,
-        "CapsEnd": 44,
-        "GoldStart": 3700,
-        "GoldEnd": 662800,
-        "EssenceStart": 268000,
-        "EssenceEnd": 496600,
-        "LevelStart": 4001,
-        "LevelEnd": 10403,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-17T09:57:00",
-        "TimeEnd": "2018-02-17T12:43:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                "Name": "Knight"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                "Name": "Thief"
-            }
-        }
+    "WasRunAborted": false
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 57,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 0,
+    "CapsEnd": 44,
+    "GoldStart": 3700,
+    "GoldEnd": 662800,
+    "EssenceStart": 268000,
+    "EssenceEnd": 496600,
+    "LevelStart": 4001,
+    "LevelEnd": 10403,
+    "TimeStart": "2018-02-17T09:57:00",
+    "TimeEnd": "2018-02-17T12:43:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Knight"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "Thief"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 58,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 3,
-        "CapsEnd": 79,
-        "GoldStart": 1100,
-        "GoldEnd": 1441095000,
-        "EssenceStart": 198000,
-        "EssenceEnd": 572300,
-        "LevelStart": 7001,
-        "LevelEnd": 14202,
-        "WasRunAborted": true,
-        "TimeStart": "2018-02-17T12:48:00",
-        "TimeEnd": "2018-02-17T15:52:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
-                "Class1": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                    "Name": "Knight"
-                },
-                "Class2": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                    "Name": "Thief"
-                },
-                "Name": "Shifter"
-            }
-        }
+    "WasRunAborted": false
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 58,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 3,
+    "CapsEnd": 79,
+    "GoldStart": 1100,
+    "GoldEnd": 1441095000,
+    "EssenceStart": 198000,
+    "EssenceEnd": 572300,
+    "LevelStart": 7001,
+    "LevelEnd": 14202,
+    "TimeStart": "2018-02-17T12:48:00",
+    "TimeEnd": "2018-02-17T15:52:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
+        "Class1": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Knight"
+        },
+        "Class2": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Thief"
+        },
+        "IsUnique": false,
+        "Name": "Shifter"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 59,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 1,
-        "CapsEnd": 112,
-        "GoldStart": 2400,
-        "GoldEnd": 1182370000,
-        "EssenceStart": 5600,
-        "EssenceEnd": 492700,
-        "LevelStart": 10001,
-        "LevelEnd": 17327,
-        "WasRunAborted": true,
-        "TimeStart": "2018-02-18T20:07:00",
-        "TimeEnd": "2018-02-18T23:14:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
-                "Class1": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                    "Name": "Knight"
-                },
-                "Class2": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                    "Name": "Thief"
-                },
-                "Name": "Shifter"
-            }
-        }
+    "WasRunAborted": true
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 59,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 1,
+    "CapsEnd": 112,
+    "GoldStart": 2400,
+    "GoldEnd": 1182370000,
+    "EssenceStart": 5600,
+    "EssenceEnd": 492700,
+    "LevelStart": 10001,
+    "LevelEnd": 17327,
+    "TimeStart": "2018-02-18T20:07:00",
+    "TimeEnd": "2018-02-18T23:14:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
+        "Class1": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Knight"
+        },
+        "Class2": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Thief"
+        },
+        "IsUnique": false,
+        "Name": "Shifter"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 60,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 0,
-        "CapsEnd": 337,
-        "GoldStart": 1182370000,
-        "GoldEnd": 1439715000,
-        "EssenceStart": 482700,
-        "EssenceEnd": 1200000,
-        "LevelStart": 10001,
-        "LevelEnd": 19881,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-19T17:49:00",
-        "TimeEnd": "2018-02-19T22:15:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
-                "Class1": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                    "Name": "Knight"
-                },
-                "Class2": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                    "Name": "Thief"
-                },
-                "Name": "Shifter"
-            }
-        }
+    "WasRunAborted": true
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 60,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 0,
+    "CapsEnd": 337,
+    "GoldStart": 1182370000,
+    "GoldEnd": 1439715000,
+    "EssenceStart": 482700,
+    "EssenceEnd": 1200000,
+    "LevelStart": 10001,
+    "LevelEnd": 19881,
+    "TimeStart": "2018-02-19T17:49:00",
+    "TimeEnd": "2018-02-19T22:15:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
+        "Class1": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Knight"
+        },
+        "Class2": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Thief"
+        },
+        "IsUnique": false,
+        "Name": "Shifter"
+      }
     },
-        {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 61,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 0,
-        "CapsEnd": 662,
-        "GoldStart": 1400,
-        "GoldEnd": 951325000,
-        "EssenceStart": 2700,
-        "EssenceEnd": 1000000,
-        "LevelStart": 10001,
-        "LevelEnd": 22616,
-        "WasRunAborted": true,
-        "TimeStart": "2018-02-20T17:48:00",
-        "TimeEnd": "2018-02-20T23:12:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
-                "Class1": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                    "Name": "Knight"
-                },
-                "Class2": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                    "Name": "Thief"
-                },
-                "Name": "Shifter"
-            }
-        }
+    "WasRunAborted": false
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 61,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 0,
+    "CapsEnd": 662,
+    "GoldStart": 1400,
+    "GoldEnd": 951325000,
+    "EssenceStart": 2700,
+    "EssenceEnd": 1000000,
+    "LevelStart": 10001,
+    "LevelEnd": 22616,
+    "TimeStart": "2018-02-20T17:48:00",
+    "TimeEnd": "2018-02-20T23:12:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
+        "Class1": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Knight"
+        },
+        "Class2": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Thief"
+        },
+        "IsUnique": false,
+        "Name": "Shifter"
+      }
     },
-    {
-        "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
-        "Id": 62,
-        "Dimension": 11,
-        "LairOfDespair": true,
-        "CapsStart": 0,
-        "CapsEnd": 0,
-        "GoldStart": 2900,
-        "GoldEnd": 0,
-        "EssenceStart": 1900,
-        "EssenceEnd": 0,
-        "LevelStart": 10001,
-        "LevelEnd": 1,
-        "WasRunAborted": false,
-        "TimeStart": "2018-02-21T07:48:00",
-        "TimeEnd": "2018-02-21T23:59:00",
-        "Setup": {
-            "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
-            "Class1": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class2": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class3": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
-                "Name": "DarkMage"
-            },
-            "Class4": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
-                "Name": "Wizard"
-            },
-            "Class5": {
-                "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
-                "Class1": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
-                    "Name": "Knight"
-                },
-                "Class2": {
-                    "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
-                    "Name": "Thief"
-                },
-                "Name": "Shifter"
-            }
-        }
-    }
+    "WasRunAborted": true
+  },
+  {
+    "$type": "SodaDungeonTracker.DataObjects.Record, SodaDungeonTracker",
+    "Id": 62,
+    "Dimension": 11,
+    "LairOfDespair": true,
+    "CapsStart": 0,
+    "CapsEnd": 0,
+    "GoldStart": 2900,
+    "GoldEnd": 0,
+    "EssenceStart": 1900,
+    "EssenceEnd": 0,
+    "LevelStart": 10001,
+    "LevelEnd": 1,
+    "TimeStart": "2018-02-21T07:48:00",
+    "TimeEnd": "2018-02-21T23:59:00",
+    "Setup": {
+      "$type": "SodaDungeonTracker.DataObjects.ClassSetup, SodaDungeonTracker",
+      "Class1": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class2": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class3": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.DarkMage, SodaDungeonTracker",
+        "IsUnique": false,
+        "Name": "DarkMage"
+      },
+      "Class4": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Wizard, SodaDungeonTracker",
+        "IsUnique": true,
+        "Name": "Wizard"
+      },
+      "Class5": {
+        "$type": "SodaDungeonTracker.DataObjects.Classes.Shifter, SodaDungeonTracker",
+        "Class1": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Knight, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Knight"
+        },
+        "Class2": {
+          "$type": "SodaDungeonTracker.DataObjects.Classes.Thief, SodaDungeonTracker",
+          "IsUnique": false,
+          "Name": "Thief"
+        },
+        "IsUnique": false,
+        "Name": "Shifter"
+      }
+    },
+    "WasRunAborted": false
+  }
 ]

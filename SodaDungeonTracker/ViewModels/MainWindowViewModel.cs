@@ -3,6 +3,7 @@ using System.Linq;
 using System.Windows.Input;
 using SodaDungeonTracker.Business;
 using SodaDungeonTracker.DataObjects;
+using SodaDungeonTracker.Properties;
 using SodaDungeonTracker.Views;
 using WpfUtility.Services;
 
@@ -36,9 +37,12 @@ namespace SodaDungeonTracker.ViewModels
                 var record = new Record {Id = _records.Max(t => t.Id) + 1};
                 Records.Add(record);
                 SelectedRecord = record;
+                FileHandler.SaveRecordsAsJson(_records.ToList(), Resources.SaveFilePath);
             });
 
         public ICommand EditRecordCommand => new RelayCommand<MainWindow>(EditRecord);
+        
+        public ICommand SettingsClickedCommand => new RelayCommand<MainWindow>(EditRecord);
 
         private void EditRecord(MainWindow mainWindow)
         {
@@ -47,14 +51,13 @@ namespace SodaDungeonTracker.ViewModels
             {
                 SelectedRecord = dialog.Record;
                 Records = new ObservableCollection<Record>(_records);
+                FileHandler.SaveRecordsAsJson(_records.ToList(), Resources.SaveFilePath);
             }
         }
 
         public void Load()
         {
-            //FileHandler.LoadCsv();
-            var list = FileHandler.LoadPlaylistElements(
-                $@"{FileHandler.GetBaseFolder()}\Resources\SodaDungeon.json");
+            var list = FileHandler.LoadRecordsFromJson(Resources.SaveFilePath);
             Records = new ObservableCollection<Record>(list);
         }
     }
