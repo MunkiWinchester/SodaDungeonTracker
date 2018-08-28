@@ -72,7 +72,12 @@
                   ItemsSource="{Binding Records}"
                   RowDetailsTemplate="{StaticResource RecordDetails}"
                   RowDetailsVisibilityMode="Collapsed"
-                  SelectedItem="{Binding SelectedRecord}">
+                  SelectedItem="{Binding SelectedRecord}"
+                  EnableColumnVirtualization="True"
+                  EnableRowVirtualization="True"
+                  VirtualizingPanel.IsVirtualizingWhenGrouping="True"
+                  VirtualizingPanel.ScrollUnit="Pixel"
+                  VirtualizingStackPanel.IsVirtualizing="True">
             <DataGrid.Columns>
                 <DataGridTextColumn Width="Auto"
                                     Binding="{Binding Id, Mode=OneWay}"
